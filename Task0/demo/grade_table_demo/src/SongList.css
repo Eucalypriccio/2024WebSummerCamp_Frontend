@@ -1,0 +1,36 @@
+.song-table .song-row:hover {
+    background: lightgrey;
+}
+
+.difficulty-capsule {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    font-size: small;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.difficulty-capsule.Basic { background-color: #28B463; }
+.difficulty-capsule.Advanced { background-color: #F39C12; }
+.difficulty-capsule.Expert { background-color: #E74C3C; }
+.difficulty-capsule.Master { background-color: #7D3C98; }
+.difficulty-capsule.reMASTER { background-color: #AF7AC5; }
+.difficulty-capsule.Utage { background-color: #EE39D3; }
+
+.DX-Rating {
+    color: #28B463; 
+}
+
+.achievement-capsule {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 500;
+    font-size: small;
+    text-align: center;
+    white-space: nowrap;
+}

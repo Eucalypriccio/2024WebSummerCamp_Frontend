@@ -1,0 +1,12 @@
+.song-table {
+  width: 100%;
+  border-collapse: collapse; /*合并边框*/
+}
+
+.song-table th,
+.song-table td {
+  border: none; /*去除所有单元格默认边框*/
+  border-bottom: 1px solid #ddd; /*只保留底部边框*/
+  padding: 8px;
+  text-align: left; /*左对齐*/
+}

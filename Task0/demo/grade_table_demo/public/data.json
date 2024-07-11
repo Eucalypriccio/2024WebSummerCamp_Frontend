@@ -1,0 +1,6912 @@
+[
+    {
+        "name": "裏表ラバーズ",
+        "category": "SD",
+        "difficulty": "Advanced",
+        "level": "8",
+        "concrete-level": "8.2",
+        "achievement": "98.6347",
+        "DX-Score": "678",
+        "DX-Rating": "164"
+    },
+    {
+        "name": "初音ミクの消失",
+        "category": "SD",
+        "difficulty": "Advanced",
+        "level": "8+",
+        "concrete-level": "8.8",
+        "achievement": "99.2495",
+        "DX-Score": "1063",
+        "DX-Rating": "181"
+    },
+    {
+        "name": "Grievous Lady",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "8",
+        "concrete-level": "8",
+        "achievement": "97.4542",
+        "DX-Score": "1061",
+        "DX-Rating": "155"
+    },
+    {
+        "name": "ヒミツCULT",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "8",
+        "concrete-level": "8.2",
+        "achievement": "99.7289",
+        "DX-Score": "1107",
+        "DX-Rating": "172"
+    },
+    {
+        "name": "End Time",
+        "category": "SD",
+        "difficulty": "Advanced",
+        "level": "9",
+        "concrete-level": "9.3",
+        "achievement": "99.0094",
+        "DX-Score": "833",
+        "DX-Rating": "191"
+    },
+    {
+        "name": "とびだせ！TO THE COSMIC!!",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "8",
+        "concrete-level": "8.2",
+        "achievement": "89.3263",
+        "DX-Score": "827",
+        "DX-Rating": "99"
+    },
+    {
+        "name": "前衛的Landscape",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "8",
+        "concrete-level": "8",
+        "achievement": "99.0968",
+        "DX-Score": "721",
+        "DX-Rating": "164"
+    },
+    {
+        "name": "GIGANTØMAKHIA",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "8",
+        "concrete-level": "8.2",
+        "achievement": "99.7813",
+        "DX-Score": "1117",
+        "DX-Rating": "172"
+    },
+    {
+        "name": "Regulus",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "8",
+        "concrete-level": "8.5",
+        "achievement": "95.4636",
+        "DX-Score": "974",
+        "DX-Rating": "136"
+    },
+    {
+        "name": "渦状銀河のシンフォニエッタ",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "8",
+        "concrete-level": "8.5",
+        "achievement": "98.0293",
+        "DX-Score": "967",
+        "DX-Rating": "169"
+    },
+    {
+        "name": "the EmpErroR",
+        "category": "SD",
+        "difficulty": "Advanced",
+        "level": "10",
+        "concrete-level": "10.5",
+        "achievement": "97.762",
+        "DX-Score": "1249",
+        "DX-Rating": "205"
+    },
+    {
+        "name": "QZKago Requiem",
+        "category": "SD",
+        "difficulty": "Advanced",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "99.1134",
+        "DX-Score": "1476",
+        "DX-Rating": "220"
+    },
+    {
+        "name": "Oshama Scramble!",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "8+",
+        "concrete-level": "8.7",
+        "achievement": "100.362",
+        "DX-Score": "1078",
+        "DX-Rating": "188"
+    },
+    {
+        "name": "Oshama Scramble!",
+        "category": "SD",
+        "difficulty": "Advanced",
+        "level": "8",
+        "concrete-level": "8.6",
+        "achievement": "92.7299",
+        "DX-Score": "1013",
+        "DX-Rating": "121"
+    },
+    {
+        "name": "Blows Up Everything",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "9",
+        "concrete-level": "9",
+        "achievement": "100.0911",
+        "DX-Score": "1163",
+        "DX-Rating": "194"
+    },
+    {
+        "name": "PANDORA PARADOXXX",
+        "category": "SD",
+        "difficulty": "Advanced",
+        "level": "11",
+        "concrete-level": "11.5",
+        "achievement": "100.5816",
+        "DX-Score": "1490",
+        "DX-Rating": "258"
+    },
+    {
+        "name": "7thSense",
+        "category": "SD",
+        "difficulty": "Advanced",
+        "level": "8+",
+        "concrete-level": "8.8",
+        "achievement": "94.0095",
+        "DX-Score": "818",
+        "DX-Rating": "138"
+    },
+    {
+        "name": "Axeria",
+        "category": "SD",
+        "difficulty": "Advanced",
+        "level": "8",
+        "concrete-level": "8.6",
+        "achievement": "95.1916",
+        "DX-Score": "724",
+        "DX-Rating": "137"
+    },
+    {
+        "name": "みなえをチェック！",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "7+",
+        "concrete-level": "7.7",
+        "achievement": "94.8638",
+        "DX-Score": "954",
+        "DX-Rating": "122"
+    },
+    {
+        "name": "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "7+",
+        "concrete-level": "7.8",
+        "achievement": "97.8674",
+        "DX-Score": "822",
+        "DX-Rating": "152"
+    },
+    {
+        "name": "奏者はただ背中と提琴で語るのみ",
+        "category": "SD",
+        "difficulty": "Advanced",
+        "level": "9",
+        "concrete-level": "9.2",
+        "achievement": "92.3074",
+        "DX-Score": "836",
+        "DX-Rating": "129"
+    },
+    {
+        "name": "泥の分際で私だけの大切を奪おうだなんて",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "100.3719",
+        "DX-Score": "1560",
+        "DX-Rating": "231"
+    },
+    {
+        "name": "インドア系ならトラックメイカー",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.5",
+        "achievement": "99.5642",
+        "DX-Score": "1150",
+        "DX-Rating": "220"
+    },
+    {
+        "name": "グッバイ宣言",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9+",
+        "concrete-level": "9.8",
+        "achievement": "98.8132",
+        "DX-Score": "1277",
+        "DX-Rating": "196"
+    },
+    {
+        "name": "ラグトレイン",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9+",
+        "concrete-level": "9.8",
+        "achievement": "99.434",
+        "DX-Score": "1344",
+        "DX-Rating": "202"
+    },
+    {
+        "name": "失敗作少女",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.2",
+        "achievement": "99.6394",
+        "DX-Score": "1156",
+        "DX-Rating": "214"
+    },
+    {
+        "name": "KING",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9+",
+        "concrete-level": "9.7",
+        "achievement": "99.3284",
+        "DX-Score": "1290",
+        "DX-Rating": "200"
+    },
+    {
+        "name": "命に嫌われている",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.2",
+        "achievement": "99.735",
+        "DX-Score": "1505",
+        "DX-Rating": "214"
+    },
+    {
+        "name": "ベノム",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9",
+        "achievement": "97.9669",
+        "DX-Score": "1375",
+        "DX-Rating": "176"
+    },
+    {
+        "name": "アスノヨゾラ哨戒班",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9",
+        "achievement": "95.1627",
+        "DX-Score": "1177",
+        "DX-Rating": "143"
+    },
+    {
+        "name": "キミノヨゾラ哨戒班",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "93.9497",
+        "DX-Score": "1143",
+        "DX-Rating": "154"
+    },
+    {
+        "name": "メルティランドナイトメア",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "8+",
+        "concrete-level": "8.7",
+        "achievement": "94.2845",
+        "DX-Score": "901",
+        "DX-Rating": "137"
+    },
+    {
+        "name": "太陽系デスコ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9+",
+        "concrete-level": "9.7",
+        "achievement": "99.052",
+        "DX-Score": "1271",
+        "DX-Rating": "199"
+    },
+    {
+        "name": "エイリアンエイリアン",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "96.9132",
+        "DX-Score": "1111",
+        "DX-Rating": "162"
+    },
+    {
+        "name": "アンドロイドガール",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.4",
+        "achievement": "100.2422",
+        "DX-Score": "1537",
+        "DX-Rating": "225"
+    },
+    {
+        "name": "ヒバナ",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.1",
+        "achievement": "100.7944",
+        "DX-Score": "1218",
+        "DX-Rating": "249"
+    },
+    {
+        "name": "二息歩行",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.1",
+        "achievement": "97.2423",
+        "DX-Score": "952",
+        "DX-Rating": "196"
+    },
+    {
+        "name": "幾望の月",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "98.3663",
+        "DX-Score": "1380",
+        "DX-Rating": "213"
+    },
+    {
+        "name": "METEOR",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9.5",
+        "achievement": "97.6007",
+        "DX-Score": "1010",
+        "DX-Rating": "185"
+    },
+    {
+        "name": "星屑ユートピア",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "99.4071",
+        "DX-Score": "1741",
+        "DX-Rating": "223"
+    },
+    {
+        "name": "Strobe♡Girl",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "100.1384",
+        "DX-Score": "975",
+        "DX-Rating": "216"
+    },
+    {
+        "name": "39みゅーじっく！",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9.3",
+        "achievement": "96.6675",
+        "DX-Score": "1052",
+        "DX-Rating": "151"
+    },
+    {
+        "name": "イカサマライフゲイム",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.5",
+        "achievement": "98.9418",
+        "DX-Score": "1638",
+        "DX-Rating": "210"
+    },
+    {
+        "name": "六兆年と一夜物語",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9.4",
+        "achievement": "97.8132",
+        "DX-Score": "887",
+        "DX-Rating": "183"
+    },
+    {
+        "name": "Tell Your World",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.5",
+        "achievement": "90.3832",
+        "DX-Score": "717",
+        "DX-Rating": "144"
+    },
+    {
+        "name": "ウミユリ海底譚",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "9+",
+        "concrete-level": "9.7",
+        "achievement": "96.3737",
+        "DX-Score": "1025",
+        "DX-Rating": "157"
+    },
+    {
+        "name": "恋愛裁判",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "96.486",
+        "DX-Score": "918",
+        "DX-Rating": "162"
+    },
+    {
+        "name": "アンノウン・マザーグース",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.1",
+        "achievement": "98.5331",
+        "DX-Score": "1192",
+        "DX-Rating": "222"
+    },
+    {
+        "name": "アンハッピーリフレイン",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "98.1219",
+        "DX-Score": "1332",
+        "DX-Rating": "235"
+    },
+    {
+        "name": "深海少女",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "9+",
+        "concrete-level": "9.9",
+        "achievement": "95.312",
+        "DX-Score": "601",
+        "DX-Rating": "158"
+    },
+    {
+        "name": "初音ミクの消失",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "99.536",
+        "DX-Score": "1594",
+        "DX-Rating": "247"
+    },
+    {
+        "name": "天ノ弱",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "98.1875",
+        "DX-Score": "1277",
+        "DX-Rating": "199"
+    },
+    {
+        "name": "Nyan Cat EX",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "99.3098",
+        "DX-Score": "1163",
+        "DX-Rating": "241"
+    },
+    {
+        "name": "Sweets Time",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "81.3745",
+        "DX-Score": "640",
+        "DX-Rating": "110"
+    },
+    {
+        "name": "全力ハッピーライフ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.2",
+        "achievement": "98.678",
+        "DX-Score": "1594",
+        "DX-Rating": "204"
+    },
+    {
+        "name": "泡沫、哀のまほろば",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.2",
+        "achievement": "95.8219",
+        "DX-Score": "609",
+        "DX-Rating": "164"
+    },
+    {
+        "name": "月に叢雲華に風",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9.4",
+        "achievement": "97.7064",
+        "DX-Score": "674",
+        "DX-Rating": "183"
+    },
+    {
+        "name": "月に叢雲華に風",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "95.0731",
+        "DX-Score": "774",
+        "DX-Rating": "159"
+    },
+    {
+        "name": "WARNING×WARNING×WARNING",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9+",
+        "concrete-level": "9.8",
+        "achievement": "100.0472",
+        "DX-Score": "1500",
+        "DX-Rating": "211"
+    },
+    {
+        "name": "幻想のサテライト",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.4",
+        "achievement": "99.9553",
+        "DX-Score": "1113",
+        "DX-Rating": "219"
+    },
+    {
+        "name": "Bad Apple!! feat.nomico (REDALiCE Remix)",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.5",
+        "achievement": "99.6966",
+        "DX-Score": "1289",
+        "DX-Rating": "220"
+    },
+    {
+        "name": "Bad Apple!! feat nomico",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.6",
+        "achievement": "97.8722",
+        "DX-Score": "1029",
+        "DX-Rating": "207"
+    },
+    {
+        "name": "ナイト・オブ・ナイツ (Cranky Remix)",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.4",
+        "achievement": "100.4983",
+        "DX-Score": "1458",
+        "DX-Rating": "225"
+    },
+    {
+        "name": "願いを呼ぶ季節",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.4",
+        "achievement": "95.2568",
+        "DX-Score": "685",
+        "DX-Rating": "166"
+    },
+    {
+        "name": "超常マイマイン",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.3",
+        "achievement": "100.2313",
+        "DX-Score": "1740",
+        "DX-Rating": "222"
+    },
+    {
+        "name": "STEREOSCAPE",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9.5",
+        "achievement": "98.821",
+        "DX-Score": "1013",
+        "DX-Rating": "190"
+    },
+    {
+        "name": "P-qoq",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.5",
+        "achievement": "99.0392",
+        "DX-Score": "1234",
+        "DX-Rating": "216"
+    },
+    {
+        "name": "STEEL TRANSONIC",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.2456",
+        "DX-Score": "1835",
+        "DX-Rating": "281"
+    },
+    {
+        "name": "SILENT BLUE",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "98.8891",
+        "DX-Score": "1732",
+        "DX-Rating": "256"
+    },
+    {
+        "name": "Glorious Crown",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "99.9773",
+        "DX-Score": "2000",
+        "DX-Rating": "278"
+    },
+    {
+        "name": "FestivaLight",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.6",
+        "achievement": "95.657",
+        "DX-Score": "856",
+        "DX-Rating": "170"
+    },
+    {
+        "name": "Believe the Rainbow",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.2",
+        "achievement": "99.111",
+        "DX-Score": "936",
+        "DX-Rating": "210"
+    },
+    {
+        "name": "ハードコア・シンドローム",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "100.0508",
+        "DX-Score": "1977",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "ぱくぱく☆がーる",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.2",
+        "achievement": "95.6435",
+        "DX-Score": "1527",
+        "DX-Rating": "163"
+    },
+    {
+        "name": "Jump!! Jump!! Jump!!",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9.5",
+        "achievement": "100.0085",
+        "DX-Score": "1313",
+        "DX-Rating": "205"
+    },
+    {
+        "name": "UTAKATA",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9.4",
+        "achievement": "98.0914",
+        "DX-Score": "1178",
+        "DX-Rating": "187"
+    },
+    {
+        "name": "Agitation！",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.2",
+        "achievement": "99.3012",
+        "DX-Score": "1225",
+        "DX-Rating": "210"
+    },
+    {
+        "name": "オーケー？　オーライ！",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9.5",
+        "achievement": "94.1276",
+        "DX-Score": "1050",
+        "DX-Rating": "150"
+    },
+    {
+        "name": "みなえをチェック！",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "99.102",
+        "DX-Score": "1308",
+        "DX-Rating": "206"
+    },
+    {
+        "name": "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.5",
+        "achievement": "99.5534",
+        "DX-Score": "1471",
+        "DX-Rating": "220"
+    },
+    {
+        "name": "猫祭り",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "99.9058",
+        "DX-Score": "1320",
+        "DX-Rating": "248"
+    },
+    {
+        "name": "ロミオとシンデレラ",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.1",
+        "achievement": "92.3131",
+        "DX-Score": "616",
+        "DX-Rating": "155"
+    },
+    {
+        "name": "L9",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.1",
+        "achievement": "97.7911",
+        "DX-Score": "1333",
+        "DX-Rating": "217"
+    },
+    {
+        "name": "ヤミツキ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "99.8171",
+        "DX-Score": "1337",
+        "DX-Rating": "210"
+    },
+    {
+        "name": "Ututu",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.2",
+        "achievement": "98.7781",
+        "DX-Score": "1017",
+        "DX-Rating": "204"
+    },
+    {
+        "name": "共鳴",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.5",
+        "achievement": "99.487",
+        "DX-Score": "1217",
+        "DX-Rating": "217"
+    },
+    {
+        "name": "TiamaT:F minor",
+        "category": "SD",
+        "difficulty": "Advanced",
+        "level": "10",
+        "concrete-level": "10.3",
+        "achievement": "100.2103",
+        "DX-Score": "1274",
+        "DX-Rating": "222"
+    },
+    {
+        "name": "くらべられっ子",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9+",
+        "concrete-level": "9.8",
+        "achievement": "99.778",
+        "DX-Score": "989",
+        "DX-Rating": "206"
+    },
+    {
+        "name": "マネマネサイコトロピック",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "99.0189",
+        "DX-Score": "1512",
+        "DX-Rating": "220"
+    },
+    {
+        "name": "初音ミクの激唱",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.4",
+        "achievement": "99.7986",
+        "DX-Score": "1429",
+        "DX-Rating": "261"
+    },
+    {
+        "name": "ECHO",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.3",
+        "achievement": "99.2733",
+        "DX-Score": "1302",
+        "DX-Rating": "233"
+    },
+    {
+        "name": "サドマミホリック",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.6",
+        "achievement": "98.5749",
+        "DX-Score": "1425",
+        "DX-Rating": "232"
+    },
+    {
+        "name": "最終鬼畜妹フランドール・S",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.5",
+        "achievement": "97.3299",
+        "DX-Score": "1324",
+        "DX-Rating": "223"
+    },
+    {
+        "name": "WARNING×WARNING×WARNING",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "98.6228",
+        "DX-Score": "1422",
+        "DX-Rating": "216"
+    },
+    {
+        "name": "幻想のサテライト",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.3",
+        "achievement": "97.7765",
+        "DX-Score": "1135",
+        "DX-Rating": "220"
+    },
+    {
+        "name": "CYBER Sparks",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "100.0255",
+        "DX-Score": "1409",
+        "DX-Rating": "254"
+    },
+    {
+        "name": "Starlight Vision",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.6",
+        "achievement": "98.0963",
+        "DX-Score": "1097",
+        "DX-Rating": "230"
+    },
+    {
+        "name": "進め！イッスン軍団 -Rebellion of the Dwarfs-",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.3",
+        "achievement": "98.6347",
+        "DX-Score": "1005",
+        "DX-Rating": "226"
+    },
+    {
+        "name": "Ether Strike",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "96.2723",
+        "DX-Score": "1396",
+        "DX-Rating": "174"
+    },
+    {
+        "name": "emomomo",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "98.6165",
+        "DX-Score": "1206",
+        "DX-Rating": "214"
+    },
+    {
+        "name": "アトロポスと最果の探究者",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "97.5609",
+        "DX-Score": "1417",
+        "DX-Rating": "210"
+    },
+    {
+        "name": "FREEDOM DiVE (tpz Overcute Remix)",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.8266",
+        "DX-Score": "1851",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "INTERNET OVERDOSE",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "99.8023",
+        "DX-Score": "1444",
+        "DX-Rating": "227"
+    },
+    {
+        "name": "ワンダーシャッフェンの法則",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "98.7395",
+        "DX-Score": "1120",
+        "DX-Rating": "214"
+    },
+    {
+        "name": "いっしそう電☆舞舞神拳！",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.5",
+        "achievement": "97.2245",
+        "DX-Score": "1512",
+        "DX-Rating": "223"
+    },
+    {
+        "name": "Paradisoda",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "99.6629",
+        "DX-Score": "1141",
+        "DX-Rating": "225"
+    },
+    {
+        "name": "connecting with you",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "97.8296",
+        "DX-Score": "1499",
+        "DX-Rating": "211"
+    },
+    {
+        "name": "Xenovcipher",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.9145",
+        "DX-Score": "2016",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "Beautiful Future",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "98.117",
+        "DX-Score": "1231",
+        "DX-Rating": "215"
+    },
+    {
+        "name": "Stardust Memories",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "97.4042",
+        "DX-Score": "1128",
+        "DX-Rating": "210"
+    },
+    {
+        "name": "Oshama Scramble!",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.4",
+        "achievement": "100.7146",
+        "DX-Score": "1559",
+        "DX-Rating": "256"
+    },
+    {
+        "name": "FFT",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "99.2299",
+        "DX-Score": "1039",
+        "DX-Rating": "262"
+    },
+    {
+        "name": "トリドリ⇒モリモリ！Lovely fruits☆",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "99.8369",
+        "DX-Score": "1587",
+        "DX-Rating": "225"
+    },
+    {
+        "name": "YONA YONA DANCE",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9",
+        "achievement": "99.767",
+        "DX-Score": "1339",
+        "DX-Rating": "189"
+    },
+    {
+        "name": "あの世行きのバスに乗ってさらば。",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "100.8792",
+        "DX-Score": "1316",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "エンヴィーベイビー",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9+",
+        "concrete-level": "9.7",
+        "achievement": "99.6162",
+        "DX-Score": "1465",
+        "DX-Rating": "203"
+    },
+    {
+        "name": "ヴァンパイア",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.2",
+        "achievement": "98.9651",
+        "DX-Score": "1450",
+        "DX-Rating": "204"
+    },
+    {
+        "name": "初音天地開闢神話",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11",
+        "achievement": "98.9708",
+        "DX-Score": "1727",
+        "DX-Rating": "221"
+    },
+    {
+        "name": "ダンスロボットダンス",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.6",
+        "achievement": "98.9626",
+        "DX-Score": "1687",
+        "DX-Rating": "233"
+    },
+    {
+        "name": "脳漿炸裂ガール",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.3",
+        "achievement": "98.2515",
+        "DX-Score": "1059",
+        "DX-Rating": "225"
+    },
+    {
+        "name": "天ノ弱",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11",
+        "achievement": "100.1404",
+        "DX-Score": "1053",
+        "DX-Rating": "237"
+    },
+    {
+        "name": "Armageddon",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.2851",
+        "DX-Score": "2132",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "ナイト・オブ・ナイツ",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.9",
+        "achievement": "97.9327",
+        "DX-Score": "1377",
+        "DX-Rating": "233"
+    },
+    {
+        "name": "Grievous Lady",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "100.1444",
+        "DX-Score": "1882",
+        "DX-Rating": "259"
+    },
+    {
+        "name": "Cyaegha",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11",
+        "achievement": "99.2603",
+        "DX-Score": "1506",
+        "DX-Rating": "227"
+    },
+    {
+        "name": "energy trixxx",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11",
+        "achievement": "98.4509",
+        "DX-Score": "1474",
+        "DX-Rating": "219"
+    },
+    {
+        "name": "Halcyon",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.4",
+        "achievement": "99.2118",
+        "DX-Score": "1624",
+        "DX-Rating": "235"
+    },
+    {
+        "name": "Let you DIVE!",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "100.1917",
+        "DX-Score": "1371",
+        "DX-Rating": "253"
+    },
+    {
+        "name": "Knight Rider",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.2",
+        "achievement": "100.0696",
+        "DX-Score": "1511",
+        "DX-Rating": "242"
+    },
+    {
+        "name": "ミルキースター・シューティングスター",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "100.517",
+        "DX-Score": "1712",
+        "DX-Rating": "240"
+    },
+    {
+        "name": "ｉｓｏｐｈｏｔｅ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "98.1277",
+        "DX-Score": "1116",
+        "DX-Rating": "199"
+    },
+    {
+        "name": "OTOGEMA",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "98.2503",
+        "DX-Score": "1356",
+        "DX-Rating": "213"
+    },
+    {
+        "name": "Never Give Up!",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "99.4887",
+        "DX-Score": "1313",
+        "DX-Rating": "223"
+    },
+    {
+        "name": "Boys O’Clock",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "97.9694",
+        "DX-Score": "1301",
+        "DX-Rating": "211"
+    },
+    {
+        "name": "MAXRAGE",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.4",
+        "achievement": "98.138",
+        "DX-Score": "1690",
+        "DX-Rating": "227"
+    },
+    {
+        "name": "テリトリーバトル",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "99.9404",
+        "DX-Score": "1435",
+        "DX-Rating": "210"
+    },
+    {
+        "name": "8-EM",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "100.4151",
+        "DX-Score": "1898",
+        "DX-Rating": "271"
+    },
+    {
+        "name": "夜に駆ける",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "11",
+        "concrete-level": "11.2",
+        "achievement": "92.6414",
+        "DX-Score": "1620",
+        "DX-Rating": "157"
+    },
+    {
+        "name": "くらべられっ子",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "11",
+        "concrete-level": "11.5",
+        "achievement": "99.5187",
+        "DX-Score": "1365",
+        "DX-Rating": "241"
+    },
+    {
+        "name": "裏表ラバーズ",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.6",
+        "achievement": "98.4892",
+        "DX-Score": "1212",
+        "DX-Rating": "251"
+    },
+    {
+        "name": "Re：End of a Dream",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "100.0303",
+        "DX-Score": "1660",
+        "DX-Rating": "259"
+    },
+    {
+        "name": "conflict",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "99.1332",
+        "DX-Score": "1744",
+        "DX-Rating": "261"
+    },
+    {
+        "name": "BIRTH",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.3508",
+        "DX-Score": "1523",
+        "DX-Rating": "264"
+    },
+    {
+        "name": "Regulus",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "98.9653",
+        "DX-Score": "1608",
+        "DX-Rating": "251"
+    },
+    {
+        "name": "WiPE OUT MEMORIES",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "96.8298",
+        "DX-Score": "1847",
+        "DX-Rating": "209"
+    },
+    {
+        "name": "TEmPTaTiON",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.6",
+        "achievement": "100.0574",
+        "DX-Score": "1722",
+        "DX-Rating": "272"
+    },
+    {
+        "name": "Oshama Scramble!",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.9",
+        "achievement": "99.8659",
+        "DX-Score": "1526",
+        "DX-Rating": "250"
+    },
+    {
+        "name": "Blows Up Everything",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.9",
+        "achievement": "97.7345",
+        "DX-Score": "1831",
+        "DX-Rating": "232"
+    },
+    {
+        "name": "エンドマークに希望と涙を添えて",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.9211",
+        "DX-Score": "1881",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "World Vanquisher",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "94.5459",
+        "DX-Score": "1583",
+        "DX-Rating": "203"
+    },
+    {
+        "name": "ヴァンパイア",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "99.4838",
+        "DX-Score": "1678",
+        "DX-Rating": "242"
+    },
+    {
+        "name": "雨とペトラ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.4",
+        "achievement": "92.2754",
+        "DX-Score": "1631",
+        "DX-Rating": "173"
+    },
+    {
+        "name": "ヒトガタ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "98.5796",
+        "DX-Score": "1376",
+        "DX-Rating": "216"
+    },
+    {
+        "name": "Doll Judgment",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.1",
+        "achievement": "100.0169",
+        "DX-Score": "1616",
+        "DX-Rating": "261"
+    },
+    {
+        "name": "Final Step!",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11",
+        "achievement": "100.6899",
+        "DX-Score": "1542",
+        "DX-Rating": "247"
+    },
+    {
+        "name": "The 90's Decision",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.2",
+        "achievement": "99.9139",
+        "DX-Score": "1392",
+        "DX-Rating": "236"
+    },
+    {
+        "name": "プナイプナイせんそう",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "100.8256",
+        "DX-Score": "1607",
+        "DX-Rating": "265"
+    },
+    {
+        "name": "FUJIN Rumble",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.9",
+        "achievement": "99.3877",
+        "DX-Score": "1278",
+        "DX-Rating": "246"
+    },
+    {
+        "name": "LOSE CONTROL",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.4",
+        "achievement": "99.1268",
+        "DX-Score": "1263",
+        "DX-Rating": "255"
+    },
+    {
+        "name": "enchanted love",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "97.2836",
+        "DX-Score": "917",
+        "DX-Rating": "229"
+    },
+    {
+        "name": "パラマウント☆ショータイム！！",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "100.2022",
+        "DX-Score": "1767",
+        "DX-Rating": "253"
+    },
+    {
+        "name": "トリアージ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "98.8338",
+        "DX-Score": "1119",
+        "DX-Rating": "200"
+    },
+    {
+        "name": "アージェントシンメトリー",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.9",
+        "achievement": "99.5059",
+        "DX-Score": "1185",
+        "DX-Rating": "228"
+    },
+    {
+        "name": "Magical Flavor",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.6",
+        "achievement": "99.486",
+        "DX-Score": "1090",
+        "DX-Rating": "219"
+    },
+    {
+        "name": "Jörqer",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "97.9421",
+        "DX-Score": "1503",
+        "DX-Rating": "231"
+    },
+    {
+        "name": "Irresistible",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11",
+        "achievement": "98.8323",
+        "DX-Score": "1181",
+        "DX-Rating": "220"
+    },
+    {
+        "name": "星詠みとデスペラード",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "99.9149",
+        "DX-Score": "1315",
+        "DX-Rating": "248"
+    },
+    {
+        "name": "封焔の135秒",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "98.865",
+        "DX-Score": "1523",
+        "DX-Rating": "254"
+    },
+    {
+        "name": "Desperado Waltz",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "99.877",
+        "DX-Score": "1815",
+        "DX-Rating": "248"
+    },
+    {
+        "name": "インビジブル",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.5",
+        "achievement": "99.3683",
+        "DX-Score": "1421",
+        "DX-Rating": "237"
+    },
+    {
+        "name": "天狗の落とし文 feat. ｙｔｒ",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "98.8995",
+        "DX-Score": "1049",
+        "DX-Rating": "236"
+    },
+    {
+        "name": "最終鬼畜妹・一部声",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.9",
+        "achievement": "99.1721",
+        "DX-Score": "1618",
+        "DX-Rating": "245"
+    },
+    {
+        "name": "Lights of Muse",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "100.7368",
+        "DX-Score": "1257",
+        "DX-Rating": "225"
+    },
+    {
+        "name": "僕の和風本当上手",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "100.0689",
+        "DX-Score": "1701",
+        "DX-Rating": "259"
+    },
+    {
+        "name": "FLOWER",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.9",
+        "achievement": "100.4129",
+        "DX-Score": "1493",
+        "DX-Rating": "258"
+    },
+    {
+        "name": "First Dance",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.1",
+        "achievement": "99.6296",
+        "DX-Score": "1595",
+        "DX-Rating": "254"
+    },
+    {
+        "name": "Caterpillar Song",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "100.816",
+        "DX-Score": "873",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "Sound Chimera",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.1272",
+        "DX-Score": "1888",
+        "DX-Rating": "257"
+    },
+    {
+        "name": "Sakura Fubuki",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.2",
+        "achievement": "100.0296",
+        "DX-Score": "876",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "アンビバレンス",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "99.9736",
+        "DX-Score": "1612",
+        "DX-Rating": "225"
+    },
+    {
+        "name": "Komplexe",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11",
+        "achievement": "99.4335",
+        "DX-Score": "1158",
+        "DX-Rating": "227"
+    },
+    {
+        "name": "HAGAKIRI",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "100.0233",
+        "DX-Score": "1425",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "U&iVERSE -銀河鸞翔-",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.1",
+        "achievement": "100.4841",
+        "DX-Score": "1893",
+        "DX-Rating": "262"
+    },
+    {
+        "name": "Excalibur ～Revived resolution～",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "99.3904",
+        "DX-Score": "1655",
+        "DX-Rating": "268"
+    },
+    {
+        "name": "宿星審判",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.2",
+        "achievement": "100.5534",
+        "DX-Score": "1876",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "tape/stop/night",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.2",
+        "achievement": "100.6646",
+        "DX-Score": "1118",
+        "DX-Rating": "229"
+    },
+    {
+        "name": "Cthugha",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "100.5444",
+        "DX-Score": "2041",
+        "DX-Rating": "281"
+    },
+    {
+        "name": "LANCE",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "99.8217",
+        "DX-Score": "1494",
+        "DX-Rating": "246"
+    },
+    {
+        "name": "躯樹の墓守",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "9+",
+        "concrete-level": "9.8",
+        "achievement": "99.9885",
+        "DX-Score": "1237",
+        "DX-Rating": "206"
+    },
+    {
+        "name": "終点",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.4",
+        "achievement": "99.1032",
+        "DX-Score": "1271",
+        "DX-Rating": "255"
+    },
+    {
+        "name": "ノイローゼ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "100.0721",
+        "DX-Score": "1766",
+        "DX-Rating": "216"
+    },
+    {
+        "name": "敗北の少年",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "100.1206",
+        "DX-Score": "1663",
+        "DX-Rating": "255"
+    },
+    {
+        "name": "拝啓ドッペルゲンガー",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.6",
+        "achievement": "99.2899",
+        "DX-Score": "1592",
+        "DX-Rating": "260"
+    },
+    {
+        "name": "人生リセットボタン",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.9",
+        "achievement": "100.0038",
+        "DX-Score": "1608",
+        "DX-Rating": "257"
+    },
+    {
+        "name": "ARROW",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.1",
+        "achievement": "100.2513",
+        "DX-Score": "1369",
+        "DX-Rating": "262"
+    },
+    {
+        "name": "夜咄ディセイブ",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "98.7601",
+        "DX-Score": "1062",
+        "DX-Rating": "250"
+    },
+    {
+        "name": "白ゆき",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "100.6742",
+        "DX-Score": "1195",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "どうしてこうなった",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "97.8918",
+        "DX-Score": "1441",
+        "DX-Rating": "229"
+    },
+    {
+        "name": "Imperishable Night 2006 (2016 Refine)",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.3",
+        "achievement": "100.4525",
+        "DX-Score": "1722",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "セイクリッド　ルイン",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.6",
+        "achievement": "100.1285",
+        "DX-Score": "1531",
+        "DX-Rating": "272"
+    },
+    {
+        "name": "Estahv",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "99.3343",
+        "DX-Score": "1132",
+        "DX-Rating": "241"
+    },
+    {
+        "name": "ENERGY SYNERGY MATRIX",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.4",
+        "achievement": "98.8485",
+        "DX-Score": "1587",
+        "DX-Rating": "228"
+    },
+    {
+        "name": "洗脳",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "100.0211",
+        "DX-Score": "1230",
+        "DX-Rating": "231"
+    },
+    {
+        "name": "チエルカ／エソテリカ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "100.2063",
+        "DX-Score": "1937",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "VANTABLACK RAVER",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.1",
+        "achievement": "98.9994",
+        "DX-Score": "1313",
+        "DX-Rating": "223"
+    },
+    {
+        "name": "SPILL OVER COLORS",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "98.997",
+        "DX-Score": "1209",
+        "DX-Rating": "237"
+    },
+    {
+        "name": "Starlight Disco",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.9",
+        "achievement": "97.4973",
+        "DX-Score": "530",
+        "DX-Rating": "232"
+    },
+    {
+        "name": "Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.2",
+        "achievement": "99.5106",
+        "DX-Score": "2122",
+        "DX-Rating": "256"
+    },
+    {
+        "name": "華の集落、秋のお届け",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "100.2406",
+        "DX-Score": "1490",
+        "DX-Rating": "255"
+    },
+    {
+        "name": "ほしぞらスペクタクル",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.7823",
+        "DX-Score": "1944",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "ARAIS",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "99.7144",
+        "DX-Score": "1595",
+        "DX-Rating": "252"
+    },
+    {
+        "name": "渦状銀河のシンフォニエッタ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "99.859",
+        "DX-Score": "1409",
+        "DX-Rating": "248"
+    },
+    {
+        "name": "Garakuta Doll Play",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.1",
+        "achievement": "100.5518",
+        "DX-Score": "1930",
+        "DX-Rating": "294"
+    },
+    {
+        "name": "Mare Maris",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.4519",
+        "DX-Score": "1406",
+        "DX-Rating": "258"
+    },
+    {
+        "name": "猛進ソリストライフ！",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.6",
+        "achievement": "99.4119",
+        "DX-Score": "1590",
+        "DX-Rating": "260"
+    },
+    {
+        "name": "奏者はただ背中と提琴で語るのみ",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.3",
+        "achievement": "100.1941",
+        "DX-Score": "1581",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "腐れ外道とチョコレゐト",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "98.2413",
+        "DX-Score": "1202",
+        "DX-Rating": "253"
+    },
+    {
+        "name": "脳漿炸裂ガール",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.2976",
+        "DX-Score": "1172",
+        "DX-Rating": "275"
+    },
+    {
+        "name": "アウターサイエンス",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "99.1388",
+        "DX-Score": "1677",
+        "DX-Rating": "261"
+    },
+    {
+        "name": "幸せになれる隠しコマンドがあるらしい",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.2358",
+        "DX-Score": "1390",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "Scream out! -maimai SONIC WASHER Edit-",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.7196",
+        "DX-Score": "2069",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "竹",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "98.1625",
+        "DX-Score": "1501",
+        "DX-Rating": "239"
+    },
+    {
+        "name": "スーパーシンメトリー",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "100.7046",
+        "DX-Score": "1821",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "Mjölnir",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.0057",
+        "DX-Score": "2067",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "MilK",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.8958",
+        "DX-Score": "1375",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "Halcyon",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.4244",
+        "DX-Score": "1797",
+        "DX-Rating": "258"
+    },
+    {
+        "name": "End Time",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.7134",
+        "DX-Score": "1524",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "GO BACK 2 YOUR RAVE",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.3",
+        "achievement": "99.8578",
+        "DX-Score": "1512",
+        "DX-Rating": "259"
+    },
+    {
+        "name": "魔法少女になるしかねぇ",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.4",
+        "achievement": "100.5185",
+        "DX-Score": "1386",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "Good Bye, Mr. Jack",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.561",
+        "DX-Score": "1661",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "Jack-the-Ripper◆",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.2",
+        "achievement": "100.1151",
+        "DX-Score": "1536",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "DADDY MULK -Groove remix-",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "99.2145",
+        "DX-Score": "1111",
+        "DX-Rating": "247"
+    },
+    {
+        "name": "星空パーティーチューン",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.5",
+        "achievement": "100.4199",
+        "DX-Score": "1623",
+        "DX-Rating": "249"
+    },
+    {
+        "name": "MIRROR of MAGIC",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "99.5577",
+        "DX-Score": "1030",
+        "DX-Rating": "224"
+    },
+    {
+        "name": "チューリングの跡",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "97.4793",
+        "DX-Score": "1264",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "Swift Swing",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.5473",
+        "DX-Score": "1543",
+        "DX-Rating": "262"
+    },
+    {
+        "name": "Trick tear",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "100.1102",
+        "DX-Score": "1591",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "Flashkick",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.2",
+        "achievement": "99.2795",
+        "DX-Score": "1522",
+        "DX-Rating": "231"
+    },
+    {
+        "name": "アポカリプスに反逆の焔を焚べろ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.5856",
+        "DX-Score": "1977",
+        "DX-Rating": "262"
+    },
+    {
+        "name": "Blew Moon",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "98.0302",
+        "DX-Score": "1155",
+        "DX-Rating": "248"
+    },
+    {
+        "name": "keep hopping",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.1524",
+        "DX-Score": "1407",
+        "DX-Rating": "257"
+    },
+    {
+        "name": "Signature",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.4",
+        "achievement": "99.8699",
+        "DX-Score": "1306",
+        "DX-Rating": "261"
+    },
+    {
+        "name": "火炎地獄",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.6",
+        "achievement": "99.0427",
+        "DX-Score": "1075",
+        "DX-Rating": "259"
+    },
+    {
+        "name": "光線チューニング",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "99.6325",
+        "DX-Score": "1583",
+        "DX-Rating": "245"
+    },
+    {
+        "name": "My First Phone",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.8344",
+        "DX-Score": "1193",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "BOKUTO",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.2",
+        "achievement": "100.6751",
+        "DX-Score": "1753",
+        "DX-Rating": "252"
+    },
+    {
+        "name": "folern",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.2",
+        "achievement": "100.2076",
+        "DX-Score": "1782",
+        "DX-Rating": "264"
+    },
+    {
+        "name": "Bad Apple!! feat nomico",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "98.6445",
+        "DX-Score": "1439",
+        "DX-Rating": "250"
+    },
+    {
+        "name": "ぐるぐるWASH！コインランドリー・ディスコ",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "96.2553",
+        "DX-Score": "877",
+        "DX-Rating": "202"
+    },
+    {
+        "name": "ナミダと流星",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "98.2097",
+        "DX-Score": "1276",
+        "DX-Rating": "249"
+    },
+    {
+        "name": "極圏",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.7468",
+        "DX-Score": "1551",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "ENERGY SYNERGY MATRIX",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.7279",
+        "DX-Score": "1734",
+        "DX-Rating": "292"
+    },
+    {
+        "name": "BLACK SWAN",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.5814",
+        "DX-Score": "1698",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "スピカの天秤",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.1",
+        "achievement": "100.673",
+        "DX-Score": "2017",
+        "DX-Rating": "294"
+    },
+    {
+        "name": "Imitation:Loud Lounge",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.5753",
+        "DX-Score": "1456",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "Sage",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.2255",
+        "DX-Score": "1662",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "白花の天使",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "100.4181",
+        "DX-Score": "1839",
+        "DX-Rating": "260"
+    },
+    {
+        "name": "エータ・ベータ・イータ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.4",
+        "achievement": "100.2041",
+        "DX-Score": "1747",
+        "DX-Rating": "268"
+    },
+    {
+        "name": "Justified",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.1618",
+        "DX-Score": "1606",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "Scarlet Lance",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.6942",
+        "DX-Score": "1873",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "雷切-RAIKIRI-",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.5552",
+        "DX-Score": "1753",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "撩乱乙女†無双劇",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "99.9668",
+        "DX-Score": "1839",
+        "DX-Rating": "246"
+    },
+    {
+        "name": "Xevel",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.0399",
+        "DX-Score": "1869",
+        "DX-Rating": "278"
+    },
+    {
+        "name": "Mysterious Destiny",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "99.8421",
+        "DX-Score": "1141",
+        "DX-Rating": "267"
+    },
+    {
+        "name": "Aiolos",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.473",
+        "DX-Score": "1885",
+        "DX-Rating": "275"
+    },
+    {
+        "name": "Maxi",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.7614",
+        "DX-Score": "1493",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "See The Light",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.5",
+        "achievement": "99.6758",
+        "DX-Score": "1334",
+        "DX-Rating": "241"
+    },
+    {
+        "name": "≠彡\"/了→",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.3021",
+        "DX-Score": "1894",
+        "DX-Rating": "275"
+    },
+    {
+        "name": "QZKago Requiem",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.4246",
+        "DX-Score": "1899",
+        "DX-Rating": "281"
+    },
+    {
+        "name": "The wheel to the right",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.6851",
+        "DX-Score": "2367",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "Beat of getting entangled",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.5058",
+        "DX-Score": "1216",
+        "DX-Rating": "268"
+    },
+    {
+        "name": "Alea jacta est!",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.2189",
+        "DX-Score": "1930",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "GIGANTØMAKHIA",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.2225",
+        "DX-Score": "1649",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "ヨミビトシラズ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "100.2329",
+        "DX-Score": "1740",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "CITRUS MONSTER",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.4285",
+        "DX-Score": "1701",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "Life Feels Good",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.1995",
+        "DX-Score": "1418",
+        "DX-Rating": "264"
+    },
+    {
+        "name": "BLUE ZONE",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.5",
+        "achievement": "99.1069",
+        "DX-Score": "1318",
+        "DX-Rating": "237"
+    },
+    {
+        "name": "Kattobi KEIKYU Rider",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "100.5785",
+        "DX-Score": "2215",
+        "DX-Rating": "297"
+    },
+    {
+        "name": "Get Happy",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "99.0258",
+        "DX-Score": "1341",
+        "DX-Rating": "265"
+    },
+    {
+        "name": "METATRON",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.0152",
+        "DX-Score": "1494",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "We Gonna Journey",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "98.8809",
+        "DX-Score": "1572",
+        "DX-Rating": "254"
+    },
+    {
+        "name": "ガラテアの螺旋",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.7101",
+        "DX-Score": "1466",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "Revive The Rave",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "98.8701",
+        "DX-Score": "1605",
+        "DX-Rating": "254"
+    },
+    {
+        "name": "Transcend Lights",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.5",
+        "achievement": "98.842",
+        "DX-Score": "870",
+        "DX-Rating": "230"
+    },
+    {
+        "name": "もうみんなしねばいいのに",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "98.8336",
+        "DX-Score": "1568",
+        "DX-Rating": "254"
+    },
+    {
+        "name": "脳天直撃",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.0242",
+        "DX-Score": "2019",
+        "DX-Rating": "278"
+    },
+    {
+        "name": "Brain Power",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "98.7166",
+        "DX-Score": "1196",
+        "DX-Rating": "236"
+    },
+    {
+        "name": "蒼穹舞楽",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "98.7298",
+        "DX-Score": "1759",
+        "DX-Rating": "256"
+    },
+    {
+        "name": "Streak",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "98.6646",
+        "DX-Score": "735",
+        "DX-Rating": "254"
+    },
+    {
+        "name": "B.B.K.K.B.K.K.",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "98.5474",
+        "DX-Score": "1685",
+        "DX-Rating": "254"
+    },
+    {
+        "name": "HECATONCHEIR",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.6013",
+        "DX-Score": "1923",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "otorii INNOVATED -[i]3-",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "99.9032",
+        "DX-Score": "1840",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "BREaK! BREaK! BREaK!",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.9598",
+        "DX-Score": "1904",
+        "DX-Rating": "269"
+    },
+    {
+        "name": "Axeria",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "99.3759",
+        "DX-Score": "1446",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "Jumble Rumble",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "98.2041",
+        "DX-Score": "1754",
+        "DX-Rating": "257"
+    },
+    {
+        "name": "Lividi",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "100.5159",
+        "DX-Score": "1667",
+        "DX-Rating": "297"
+    },
+    {
+        "name": "Metamorphosism",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.35",
+        "DX-Score": "1390",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "We Gonna Party",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "97.054",
+        "DX-Score": "867",
+        "DX-Rating": "250"
+    },
+    {
+        "name": "Panopticon",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "98.7238",
+        "DX-Score": "1272",
+        "DX-Rating": "258"
+    },
+    {
+        "name": "インビジブル",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.3",
+        "achievement": "100.464",
+        "DX-Score": "1915",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "サドマミホリック",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.5677",
+        "DX-Score": "1956",
+        "DX-Rating": "262"
+    },
+    {
+        "name": "CYBER Sparks",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.4741",
+        "DX-Score": "1573",
+        "DX-Rating": "258"
+    },
+    {
+        "name": "月に叢雲華に風",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.6",
+        "achievement": "99.3884",
+        "DX-Score": "1167",
+        "DX-Rating": "260"
+    },
+    {
+        "name": "WARNING×WARNING×WARNING",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.6",
+        "achievement": "99.3227",
+        "DX-Score": "1822",
+        "DX-Rating": "260"
+    },
+    {
+        "name": "彗星ハネムーン",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.287",
+        "DX-Score": "1869",
+        "DX-Rating": "258"
+    },
+    {
+        "name": "林檎華憐歌",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.2385",
+        "DX-Score": "1793",
+        "DX-Rating": "258"
+    },
+    {
+        "name": "洗脳",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.4",
+        "achievement": "99.637",
+        "DX-Score": "1675",
+        "DX-Rating": "260"
+    },
+    {
+        "name": "STEREOSCAPE",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.4",
+        "achievement": "100.8699",
+        "DX-Score": "1654",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "フラジール",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "98.754",
+        "DX-Score": "1592",
+        "DX-Rating": "256"
+    },
+    {
+        "name": "星屑ユートピア",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "98.2754",
+        "DX-Score": "1924",
+        "DX-Rating": "253"
+    },
+    {
+        "name": "命に嫌われている",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "98.1379",
+        "DX-Score": "2196",
+        "DX-Rating": "255"
+    },
+    {
+        "name": "超常マイマイン",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "97.938",
+        "DX-Score": "2476",
+        "DX-Rating": "248"
+    },
+    {
+        "name": "からくりピエロ",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "97.7395",
+        "DX-Score": "1034",
+        "DX-Rating": "244"
+    },
+    {
+        "name": "Strobe♡Girl",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.6",
+        "achievement": "97.5754",
+        "DX-Score": "1476",
+        "DX-Rating": "245"
+    },
+    {
+        "name": "最終鬼畜妹フランドール・S",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.1",
+        "achievement": "99.9599",
+        "DX-Score": "1726",
+        "DX-Rating": "255"
+    },
+    {
+        "name": "チュルリラ・チュルリラ・ダッダッダ！",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "97.9348",
+        "DX-Score": "2005",
+        "DX-Rating": "260"
+    },
+    {
+        "name": "星めぐり、果ての君へ。",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "95.4596",
+        "DX-Score": "1734",
+        "DX-Rating": "206"
+    },
+    {
+        "name": "tape/stop/night",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "98.2857",
+        "DX-Score": "1408",
+        "DX-Rating": "255"
+    },
+    {
+        "name": "絡めトリック利己ライザー",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "99.4108",
+        "DX-Score": "2002",
+        "DX-Rating": "262"
+    },
+    {
+        "name": "veil",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "93.8606",
+        "DX-Score": "1302",
+        "DX-Rating": "181"
+    },
+    {
+        "name": "Irresistible",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.1831",
+        "DX-Score": "2067",
+        "DX-Rating": "296"
+    },
+    {
+        "name": "居並ぶ穀物と溜息まじりの運送屋",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "93.7786",
+        "DX-Score": "2188",
+        "DX-Rating": "183"
+    },
+    {
+        "name": "HERA",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.2178",
+        "DX-Score": "1831",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "Climax",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "100.1451",
+        "DX-Score": "2170",
+        "DX-Rating": "259"
+    },
+    {
+        "name": "Ultranova",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.1029",
+        "DX-Score": "1321",
+        "DX-Rating": "278"
+    },
+    {
+        "name": "YA･DA･YO [Reborn]",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.0708",
+        "DX-Score": "1383",
+        "DX-Rating": "280"
+    },
+    {
+        "name": "World's end loneliness",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.6802",
+        "DX-Score": "1954",
+        "DX-Rating": "292"
+    },
+    {
+        "name": "Strive against fate",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "100.2419",
+        "DX-Score": "2021",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "GOODMEN",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "99.9337",
+        "DX-Score": "1494",
+        "DX-Rating": "246"
+    },
+    {
+        "name": "きたさいたま2000",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.823",
+        "DX-Score": "1690",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "花と、雪と、ドラムンベース。",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.1463",
+        "DX-Score": "1140",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "Alcyone",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "99.2265",
+        "DX-Score": "1640",
+        "DX-Rating": "247"
+    },
+    {
+        "name": "Hyper Active",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "100.7696",
+        "DX-Score": "1743",
+        "DX-Rating": "297"
+    },
+    {
+        "name": "Got more raves？",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.1776",
+        "DX-Score": "1255",
+        "DX-Rating": "276"
+    },
+    {
+        "name": "N3V3R G3T OV3R",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "98.994",
+        "DX-Score": "1282",
+        "DX-Rating": "241"
+    },
+    {
+        "name": "Moon of Noon",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.1",
+        "achievement": "100.3276",
+        "DX-Score": "1849",
+        "DX-Rating": "283"
+    },
+    {
+        "name": "larva",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "98.6667",
+        "DX-Score": "1875",
+        "DX-Rating": "258"
+    },
+    {
+        "name": "Raven Emperor",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "99.7146",
+        "DX-Score": "1623",
+        "DX-Rating": "252"
+    },
+    {
+        "name": "VIIIbit Explorer",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.1327",
+        "DX-Score": "2234",
+        "DX-Rating": "281"
+    },
+    {
+        "name": "夜明けまであと３秒",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.1",
+        "achievement": "98.5966",
+        "DX-Score": "1370",
+        "DX-Rating": "262"
+    },
+    {
+        "name": "うっせぇわ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "100.3353",
+        "DX-Score": "1983",
+        "DX-Rating": "253"
+    },
+    {
+        "name": "再会",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.2",
+        "achievement": "100.1588",
+        "DX-Score": "1717",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "ゴーストルール",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "96.7756",
+        "DX-Score": "1607",
+        "DX-Rating": "214"
+    },
+    {
+        "name": "Dragoon",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "97.8646",
+        "DX-Score": "1530",
+        "DX-Rating": "262"
+    },
+    {
+        "name": "ヒバナ",
+        "category": "SD",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "99.629",
+        "DX-Score": "1919",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "うっせぇわ",
+        "category": "DX",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "94.6121",
+        "DX-Score": "1889",
+        "DX-Rating": "209"
+    },
+    {
+        "name": "麒麟",
+        "category": "SD",
+        "difficulty": "Advanced",
+        "level": "9",
+        "concrete-level": "9.5",
+        "achievement": "100.625",
+        "DX-Score": "1043",
+        "DX-Rating": "213"
+    },
+    {
+        "name": "M.S.S.Planet",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9+",
+        "concrete-level": "9.7",
+        "achievement": "100.917",
+        "DX-Score": "1196",
+        "DX-Rating": "218"
+    },
+    {
+        "name": "Rainbow Rush Story",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10.5",
+        "achievement": "100.7634",
+        "DX-Score": "1268",
+        "DX-Rating": "236"
+    },
+    {
+        "name": "Good bye, Merry-Go-Round.",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "100.2202",
+        "DX-Score": "1654",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "mystique as iris",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.1913",
+        "DX-Score": "1932",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "ベースラインやってる？笑",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11",
+        "achievement": "100.1607",
+        "DX-Score": "1421",
+        "DX-Rating": "237"
+    },
+    {
+        "name": "麒麟",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.5317",
+        "DX-Score": "1528",
+        "DX-Rating": "292"
+    },
+    {
+        "name": "Heavenly Blast",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.9881",
+        "DX-Score": "2050",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "みんなのマイマイマー",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.2",
+        "achievement": "99.704",
+        "DX-Score": "1080",
+        "DX-Rating": "235"
+    },
+    {
+        "name": "躯樹の墓守",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.3842",
+        "DX-Score": "1924",
+        "DX-Rating": "281"
+    },
+    {
+        "name": "前衛的Landscape",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.4",
+        "achievement": "99.2506",
+        "DX-Score": "1184",
+        "DX-Rating": "235"
+    },
+    {
+        "name": "蜘蛛の糸",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.4467",
+        "DX-Score": "1807",
+        "DX-Rating": "264"
+    },
+    {
+        "name": "MEGATON BLAST",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.6307",
+        "DX-Score": "2527",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "妄想感傷代償連盟",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "9+",
+        "concrete-level": "9.8",
+        "achievement": "97.5828",
+        "DX-Score": "982",
+        "DX-Rating": "191"
+    },
+    {
+        "name": "弱虫モンブラン",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.9",
+        "achievement": "97.1694",
+        "DX-Score": "609",
+        "DX-Rating": "211"
+    },
+    {
+        "name": "39",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9.3",
+        "achievement": "95.79",
+        "DX-Score": "927",
+        "DX-Rating": "149"
+    },
+    {
+        "name": "弱虫モンブラン",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.8134",
+        "DX-Score": "1277",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "Let you DIVE!",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "98.8617",
+        "DX-Score": "1507",
+        "DX-Rating": "256"
+    },
+    {
+        "name": "ジレンマ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "98.5329",
+        "DX-Score": "2151",
+        "DX-Rating": "258"
+    },
+    {
+        "name": "ミルキースター・シューティングスター",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "97.4877",
+        "DX-Score": "1991",
+        "DX-Rating": "251"
+    },
+    {
+        "name": "アニマル",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.1",
+        "achievement": "98.179",
+        "DX-Score": "2441",
+        "DX-Rating": "261"
+    },
+    {
+        "name": "ヒトガタ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.6722",
+        "DX-Score": "2178",
+        "DX-Rating": "301"
+    },
+    {
+        "name": "ホシシズク",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "95.983",
+        "DX-Score": "2085",
+        "DX-Rating": "208"
+    },
+    {
+        "name": "ウミユリ海底譚",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.5695",
+        "DX-Score": "2051",
+        "DX-Rating": "301"
+    },
+    {
+        "name": "Contrapasso -paradiso-",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.3294",
+        "DX-Score": "1961",
+        "DX-Rating": "281"
+    },
+    {
+        "name": "Tricolor⁂circuS",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.7",
+        "achievement": "100.1674",
+        "DX-Score": "1279",
+        "DX-Rating": "231"
+    },
+    {
+        "name": "人里に下ったアタイがいつの間にか社畜になっていた件",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "100.7456",
+        "DX-Score": "1969",
+        "DX-Rating": "297"
+    },
+    {
+        "name": "Calamity Fortune",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "99.4368",
+        "DX-Score": "1605",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "METEOR",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.4",
+        "achievement": "98.8986",
+        "DX-Score": "1392",
+        "DX-Rating": "248"
+    },
+    {
+        "name": "泡沫、哀のまほろば",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "98.0005",
+        "DX-Score": "960",
+        "DX-Rating": "248"
+    },
+    {
+        "name": "共鳴",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "97.8214",
+        "DX-Score": "1690",
+        "DX-Rating": "254"
+    },
+    {
+        "name": "ツクヨミステップ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "98.7097",
+        "DX-Score": "2318",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "スカーレット警察のゲットーパトロール24時",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "100.5488",
+        "DX-Score": "1947",
+        "DX-Rating": "303"
+    },
+    {
+        "name": "不思議の国のクリスマス",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.0365",
+        "DX-Score": "1462",
+        "DX-Rating": "287"
+    },
+    {
+        "name": "キミノヨゾラ哨戒班",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "98.6631",
+        "DX-Score": "1828",
+        "DX-Rating": "258"
+    },
+    {
+        "name": "泥の分際で私だけの大切を奪おうだなんて",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "99.4738",
+        "DX-Score": "2153",
+        "DX-Rating": "283"
+    },
+    {
+        "name": "アンビバレンス",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "99.6724",
+        "DX-Score": "2315",
+        "DX-Rating": "273"
+    },
+    {
+        "name": "Signature",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.6",
+        "achievement": "93.5043",
+        "DX-Score": "1561",
+        "DX-Rating": "193"
+    },
+    {
+        "name": "Round Round Spinning Around",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "98.5768",
+        "DX-Score": "2140",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "Transcend Lights",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "100.5887",
+        "DX-Score": "1640",
+        "DX-Rating": "303"
+    },
+    {
+        "name": "デーモンベット",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "99.0686",
+        "DX-Score": "1687",
+        "DX-Rating": "272"
+    },
+    {
+        "name": "Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.3084",
+        "DX-Score": "2109",
+        "DX-Rating": "281"
+    },
+    {
+        "name": "[X]",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "100.6305",
+        "DX-Score": "1755",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "キャプテン・ムラサのケツアンカー",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.5",
+        "achievement": "99.6008",
+        "DX-Score": "914",
+        "DX-Rating": "241"
+    },
+    {
+        "name": "LiftOff",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "99.3263",
+        "DX-Score": "1656",
+        "DX-Rating": "241"
+    },
+    {
+        "name": "立ち入り禁止",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "99.625",
+        "DX-Score": "1963",
+        "DX-Rating": "252"
+    },
+    {
+        "name": "ナイト・オブ・ナイツ",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.3581",
+        "DX-Score": "1749",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "ダンスロボットダンス",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "99.0121",
+        "DX-Score": "2108",
+        "DX-Rating": "273"
+    },
+    {
+        "name": "アンドロイドガール",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "99.7028",
+        "DX-Score": "2050",
+        "DX-Rating": "271"
+    },
+    {
+        "name": "猫祭り",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "99.3922",
+        "DX-Score": "2022",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "Strange Bar",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "91.5636",
+        "DX-Score": "1891",
+        "DX-Rating": "193"
+    },
+    {
+        "name": "You Mean the World to Me",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.5",
+        "achievement": "100.462",
+        "DX-Score": "1397",
+        "DX-Rating": "249"
+    },
+    {
+        "name": "Rising on the horizon",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.5627",
+        "DX-Score": "1778",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "Don't Fight The Music",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.4783",
+        "DX-Score": "2008",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "ViRTUS",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "100.4332",
+        "DX-Score": "1953",
+        "DX-Rating": "286"
+    },
+    {
+        "name": "銀のめぐり",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "99.1357",
+        "DX-Score": "1689",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "Catch Me If You Can",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "99.8997",
+        "DX-Score": "2196",
+        "DX-Rating": "278"
+    },
+    {
+        "name": "Luminaria",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.2",
+        "achievement": "100.77",
+        "DX-Score": "1837",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "マーシャル・マキシマイザー",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9+",
+        "concrete-level": "9.8",
+        "achievement": "100.7502",
+        "DX-Score": "1505",
+        "DX-Rating": "220"
+    },
+    {
+        "name": "Yorugao",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.2",
+        "achievement": "100.7217",
+        "DX-Score": "1606",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "VSpook!",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.5557",
+        "DX-Score": "2187",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "れっつ！みらくる☆はーどこあっ！",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "100.3176",
+        "DX-Score": "1653",
+        "DX-Rating": "255"
+    },
+    {
+        "name": "天火明命",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.6875",
+        "DX-Score": "1921",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "#狂った民族２ PRAVARGYAZOOQA",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.5867",
+        "DX-Score": "1435",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "エナドリおいしいソング",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.0573",
+        "DX-Score": "1358",
+        "DX-Rating": "276"
+    },
+    {
+        "name": "Hainuwele",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.5372",
+        "DX-Score": "1809",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "ねぇ、壊れタ人形ハ何処へ棄テらレるノ？",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "99.9724",
+        "DX-Score": "1901",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "電光石火",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.0874",
+        "DX-Score": "1822",
+        "DX-Rating": "276"
+    },
+    {
+        "name": "ジングルベル",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "99.7113",
+        "DX-Score": "1094",
+        "DX-Rating": "227"
+    },
+    {
+        "name": "怒槌",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "99.6467",
+        "DX-Score": "2012",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "Caliburne ～Story of the Legendary sword～",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "99.3585",
+        "DX-Score": "1702",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "Our Wrenally",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "98.9831",
+        "DX-Score": "1625",
+        "DX-Rating": "261"
+    },
+    {
+        "name": "ばかみたい【Taxi Driver Edition】",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "98.2799",
+        "DX-Score": "525",
+        "DX-Rating": "239"
+    },
+    {
+        "name": "sølips",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "96.4775",
+        "DX-Score": "1734",
+        "DX-Rating": "222"
+    },
+    {
+        "name": "",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.2122",
+        "DX-Score": "1612",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "Barbed Eye",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.5155",
+        "DX-Score": "2104",
+        "DX-Rating": "292"
+    },
+    {
+        "name": "幾望の月",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.9427",
+        "DX-Score": "1947",
+        "DX-Rating": "269"
+    },
+    {
+        "name": "Ghost Dance",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "99.7561",
+        "DX-Score": "2156",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "M.S.S.Planet",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.4141",
+        "DX-Score": "1904",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "In Chaos",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "99.4042",
+        "DX-Score": "943",
+        "DX-Rating": "258"
+    },
+    {
+        "name": "KING",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "99.3741",
+        "DX-Score": "1976",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "生きてるおばけは生きている",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "99.2256",
+        "DX-Score": "2055",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "TRUST",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.1",
+        "achievement": "99.2046",
+        "DX-Score": "1796",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "グリーンライツ・セレナーデ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "99.1955",
+        "DX-Score": "2302",
+        "DX-Rating": "262"
+    },
+    {
+        "name": "六兆年と一夜物語",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "99.0842",
+        "DX-Score": "1757",
+        "DX-Rating": "282"
+    },
+    {
+        "name": "失敗作少女",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.1",
+        "achievement": "99.3479",
+        "DX-Score": "2089",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "あの世行きのバスに乗ってさらば。",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "99.8171",
+        "DX-Score": "1883",
+        "DX-Rating": "278"
+    },
+    {
+        "name": "明星ギャラクティカ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.4",
+        "achievement": "98.7087",
+        "DX-Score": "1892",
+        "DX-Rating": "248"
+    },
+    {
+        "name": "ECHO",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "100.5062",
+        "DX-Score": "2027",
+        "DX-Rating": "303"
+    },
+    {
+        "name": "オモイヨシノ",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "98.5703",
+        "DX-Score": "1664",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "終点",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "100.5839",
+        "DX-Score": "1870",
+        "DX-Rating": "310"
+    },
+    {
+        "name": "天ノ弱",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "98.3666",
+        "DX-Score": "1497",
+        "DX-Rating": "265"
+    },
+    {
+        "name": "アンハッピーリフレイン",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "98.2856",
+        "DX-Score": "1817",
+        "DX-Rating": "267"
+    },
+    {
+        "name": "Revive The Rave",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "99.0903",
+        "DX-Score": "2357",
+        "DX-Rating": "284"
+    },
+    {
+        "name": "Grip & Break down !!",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "97.6587",
+        "DX-Score": "2271",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "テリトリーバトル",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "98.9779",
+        "DX-Score": "2254",
+        "DX-Rating": "271"
+    },
+    {
+        "name": "ここからはじまるプロローグ。",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "99.093",
+        "DX-Score": "1655",
+        "DX-Rating": "276"
+    },
+    {
+        "name": "バーチャルダム　ネーション",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "96.3443",
+        "DX-Score": "2206",
+        "DX-Rating": "218"
+    },
+    {
+        "name": "Grip & Break down !!",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "96.9789",
+        "DX-Score": "1710",
+        "DX-Rating": "216"
+    },
+    {
+        "name": "Neon Kingdom",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "99.1221",
+        "DX-Score": "1809",
+        "DX-Rating": "284"
+    },
+    {
+        "name": "Magical Flavor",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.559",
+        "DX-Score": "1541",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "オーディエンスを沸かす程度の能力 feat.タイツォン",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "94.3371",
+        "DX-Score": "1603",
+        "DX-Rating": "217"
+    },
+    {
+        "name": "儚きもの人間",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "92.7914",
+        "DX-Score": "1845",
+        "DX-Rating": "196"
+    },
+    {
+        "name": "Tricolor⁂circuS",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "95.0226",
+        "DX-Score": "2128",
+        "DX-Rating": "223"
+    },
+    {
+        "name": "フォニイ",
+        "category": "DX",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.6979",
+        "DX-Score": "2014",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "妄想感傷代償連盟",
+        "category": "SD",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "100.5612",
+        "DX-Score": "1888",
+        "DX-Rating": "297"
+    },
+    {
+        "name": "若い力 -SEGA HARD GIRLS MIX-",
+        "category": "SD",
+        "difficulty": "Re:MASTER",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "96.2623",
+        "DX-Score": "1189",
+        "DX-Rating": "205"
+    },
+    {
+        "name": "EYE",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9",
+        "achievement": "100.9423",
+        "DX-Score": "1321",
+        "DX-Rating": "202"
+    },
+    {
+        "name": "神々が恋した幻想郷",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10+",
+        "concrete-level": "10.8",
+        "achievement": "100.6386",
+        "DX-Score": "1356",
+        "DX-Rating": "243"
+    },
+    {
+        "name": "7thSense",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "100.4921",
+        "DX-Score": "1419",
+        "DX-Rating": "256"
+    },
+    {
+        "name": "Aegleseeker",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.7595",
+        "DX-Score": "1785",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "最強STRONGER",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.7106",
+        "DX-Score": "2135",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "VERTeX",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.9",
+        "achievement": "100.2692",
+        "DX-Score": "1358",
+        "DX-Rating": "257"
+    },
+    {
+        "name": "Prophesy One",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.4",
+        "achievement": "100.0675",
+        "DX-Score": "1745",
+        "DX-Rating": "268"
+    },
+    {
+        "name": "魔ジョ狩リ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11",
+        "concrete-level": "11.1",
+        "achievement": "100.0188",
+        "DX-Score": "1470",
+        "DX-Rating": "239"
+    },
+    {
+        "name": "康莊大道",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "99.5959",
+        "DX-Score": "1908",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "AMAZING MIGHTYYYY!!!!",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.6",
+        "achievement": "100.0254",
+        "DX-Score": "2301",
+        "DX-Rating": "293"
+    },
+    {
+        "name": "Schwarzschild",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "99.2512",
+        "DX-Score": "1394",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "BATTLE NO.1",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.2",
+        "achievement": "99.2177",
+        "DX-Score": "1969",
+        "DX-Rating": "251"
+    },
+    {
+        "name": "PANDORA PARADOXXX",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "98.1028",
+        "DX-Score": "2070",
+        "DX-Rating": "276"
+    },
+    {
+        "name": "Tic Tac DREAMIN’",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.1",
+        "achievement": "100.576",
+        "DX-Score": "1411",
+        "DX-Rating": "272"
+    },
+    {
+        "name": "太陽系デスコ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "100.5662",
+        "DX-Score": "1948",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "Splash Dance!!",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.7518",
+        "DX-Score": "2683",
+        "DX-Rating": "301"
+    },
+    {
+        "name": "フィクサー",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.6191",
+        "DX-Score": "2070",
+        "DX-Rating": "301"
+    },
+    {
+        "name": "Believe the Rainbow",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.2763",
+        "DX-Score": "1229",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "その群青が愛しかったようだった",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.1079",
+        "DX-Score": "1857",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "ラグトレイン",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "100.827",
+        "DX-Score": "2101",
+        "DX-Rating": "297"
+    },
+    {
+        "name": "パーフェクション",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "100.632",
+        "DX-Score": "2234",
+        "DX-Rating": "303"
+    },
+    {
+        "name": "connecting with you",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "100.0333",
+        "DX-Score": "2179",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "MOBILYS",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.1",
+        "achievement": "100.4484",
+        "DX-Score": "1905",
+        "DX-Rating": "284"
+    },
+    {
+        "name": "撩乱乙女†無双劇",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.2556",
+        "DX-Score": "2268",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "ベノム",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "99.7665",
+        "DX-Score": "2155",
+        "DX-Rating": "267"
+    },
+    {
+        "name": "白ゆき",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.5027",
+        "DX-Score": "1889",
+        "DX-Rating": "301"
+    },
+    {
+        "name": "無敵We are one!!",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.0809",
+        "DX-Score": "2488",
+        "DX-Rating": "296"
+    },
+    {
+        "name": "春嵐",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "99.6314",
+        "DX-Score": "1695",
+        "DX-Rating": "281"
+    },
+    {
+        "name": "ARROW",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.8519",
+        "DX-Score": "1748",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "お嫁にしなさいっ！",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.627",
+        "DX-Score": "1301",
+        "DX-Rating": "269"
+    },
+    {
+        "name": "Doll Judgment",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "100.228",
+        "DX-Score": "2287",
+        "DX-Rating": "298"
+    },
+    {
+        "name": "キュートなカノジョ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.2584",
+        "DX-Score": "1758",
+        "DX-Rating": "264"
+    },
+    {
+        "name": "緋色のDance",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "99.2447",
+        "DX-Score": "1431",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "おねがいダーリン",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.2317",
+        "DX-Score": "1753",
+        "DX-Rating": "264"
+    },
+    {
+        "name": "Alice's Suitcase",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "100.1165",
+        "DX-Score": "2069",
+        "DX-Rating": "298"
+    },
+    {
+        "name": "バイオレンストリガー",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "99.2217",
+        "DX-Score": "2126",
+        "DX-Rating": "272"
+    },
+    {
+        "name": "アマカミサマ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "99.1795",
+        "DX-Score": "1892",
+        "DX-Rating": "261"
+    },
+    {
+        "name": "星空パーティーチューン",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.3491",
+        "DX-Score": "2479",
+        "DX-Rating": "296"
+    },
+    {
+        "name": "はちみつアドベンチャー",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.0276",
+        "DX-Score": "1847",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "Ututu",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "98.9305",
+        "DX-Score": "1680",
+        "DX-Rating": "259"
+    },
+    {
+        "name": "リモコン",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "100.2788",
+        "DX-Score": "2249",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "ｉｓｏｐｈｏｔｅ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "98.8196",
+        "DX-Score": "1866",
+        "DX-Rating": "260"
+    },
+    {
+        "name": "Lost Desire",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "98.767",
+        "DX-Score": "2282",
+        "DX-Rating": "276"
+    },
+    {
+        "name": "時計の国のジェミニ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.503",
+        "DX-Score": "1866",
+        "DX-Rating": "292"
+    },
+    {
+        "name": "コトバ・カラフル",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "98.5805",
+        "DX-Score": "1392",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "患部で止まってすぐ溶ける～狂気の優曇華院",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "100.5989",
+        "DX-Score": "1909",
+        "DX-Rating": "303"
+    },
+    {
+        "name": "INTERNET OVERDOSE",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "100.6323",
+        "DX-Score": "2195",
+        "DX-Rating": "303"
+    },
+    {
+        "name": "マーシャル・マキシマイザー",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "98.1853",
+        "DX-Score": "2176",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "SPILL OVER COLORS",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "98.8443",
+        "DX-Score": "2070",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "魔ジョ狩リ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.5789",
+        "DX-Score": "1826",
+        "DX-Rating": "308"
+    },
+    {
+        "name": "心象蜃気楼",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "97.936",
+        "DX-Score": "1923",
+        "DX-Rating": "262"
+    },
+    {
+        "name": "三妖精SAY YA!!!",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.6088",
+        "DX-Score": "2181",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "ビターチョコデコレーション",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "97.4659",
+        "DX-Score": "2034",
+        "DX-Rating": "251"
+    },
+    {
+        "name": "モンダイナイトリッパー！",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "99.1841",
+        "DX-Score": "2212",
+        "DX-Rating": "282"
+    },
+    {
+        "name": "Danza zandA",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "97.4057",
+        "DX-Score": "1468",
+        "DX-Rating": "261"
+    },
+    {
+        "name": "LUCIA",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "97.2874",
+        "DX-Score": "1278",
+        "DX-Rating": "256"
+    },
+    {
+        "name": "タカハせ！名人マン",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "100.5166",
+        "DX-Score": "1497",
+        "DX-Rating": "303"
+    },
+    {
+        "name": "ドーナツホール",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.2214",
+        "DX-Score": "2465",
+        "DX-Rating": "296"
+    },
+    {
+        "name": "神々が恋した幻想郷",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "96.7592",
+        "DX-Score": "2212",
+        "DX-Rating": "219"
+    },
+    {
+        "name": "アトロポスと最果の探究者",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.0756",
+        "DX-Score": "2142",
+        "DX-Rating": "296"
+    },
+    {
+        "name": "Imperishable Night 2006 (2016 Refine)",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "97.685",
+        "DX-Score": "2433",
+        "DX-Rating": "271"
+    },
+    {
+        "name": "REVIVER オルタンシア・サーガ -蒼の騎士団- オリジナルVer.",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "96.3169",
+        "DX-Score": "1450",
+        "DX-Rating": "221"
+    },
+    {
+        "name": "ピュグマリオンの咒文",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "99.3599",
+        "DX-Score": "2226",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "VANTABLACK RAVER",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "99.0059",
+        "DX-Score": "2236",
+        "DX-Rating": "284"
+    },
+    {
+        "name": "Grievous Lady",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.1",
+        "achievement": "94.2738",
+        "DX-Score": "2250",
+        "DX-Rating": "223"
+    },
+    {
+        "name": "felys -final remix-",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.4",
+        "achievement": "93.8213",
+        "DX-Score": "2249",
+        "DX-Rating": "205"
+    },
+    {
+        "name": "分からない",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "93.1936",
+        "DX-Score": "1927",
+        "DX-Rating": "198"
+    },
+    {
+        "name": "Jack-the-Ripper◆",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "92.9085",
+        "DX-Score": "2009",
+        "DX-Rating": "197"
+    },
+    {
+        "name": "ヴァンパイア",
+        "category": "DX",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.5484",
+        "DX-Score": "2015",
+        "DX-Rating": "301"
+    },
+    {
+        "name": "ロキ",
+        "category": "SD",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "99.976",
+        "DX-Score": "2140",
+        "DX-Rating": "280"
+    },
+    {
+        "name": "くらべられっ子",
+        "category": "DX",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.0556",
+        "DX-Score": "1663",
+        "DX-Rating": "280"
+    },
+    {
+        "name": "サドマミホリック",
+        "category": "SD",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "99.3053",
+        "DX-Score": "2452",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "星めぐり、果ての君へ。",
+        "category": "DX",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "97.2948",
+        "DX-Score": "2052",
+        "DX-Rating": "252"
+    },
+    {
+        "name": "ヴィラン",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "9",
+        "concrete-level": "9.2",
+        "achievement": "100.8498",
+        "DX-Score": "1035",
+        "DX-Rating": "207"
+    },
+    {
+        "name": "『んっあっあっ。』",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.6975",
+        "DX-Score": "2504",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "YU-MU",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "100.6122",
+        "DX-Score": "1512",
+        "DX-Rating": "297"
+    },
+    {
+        "name": "モザイクロール",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.1",
+        "achievement": "100.7358",
+        "DX-Score": "1973",
+        "DX-Rating": "294"
+    },
+    {
+        "name": "共感覚おばけ",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "99.816",
+        "DX-Score": "1722",
+        "DX-Rating": "278"
+    },
+    {
+        "name": "深海少女",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "99.6401",
+        "DX-Score": "1474",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "LOSE CONTROL",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "99.8583",
+        "DX-Score": "1605",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "アカツキアライヴァル",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "99.2377",
+        "DX-Score": "2012",
+        "DX-Rating": "268"
+    },
+    {
+        "name": "Lights of Muse",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "99.1343",
+        "DX-Score": "1632",
+        "DX-Rating": "272"
+    },
+    {
+        "name": "BOKUTO",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.5051",
+        "DX-Score": "2706",
+        "DX-Rating": "301"
+    },
+    {
+        "name": "紅星ミゼラブル～廃憶編",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "98.3845",
+        "DX-Score": "2105",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "大輪の魂 (feat. AO, 司芭扶)",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.601",
+        "DX-Score": "2109",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "遺伝子レベル∞スパイラル",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "98.2747",
+        "DX-Score": "2071",
+        "DX-Rating": "273"
+    },
+    {
+        "name": "幽闇に目醒めしは",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.5646",
+        "DX-Score": "1342",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "ぼくたちいつでも　しゅわっしゅわ！",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "98.244",
+        "DX-Score": "2038",
+        "DX-Rating": "259"
+    },
+    {
+        "name": "Beat Opera op.1",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "97.7348",
+        "DX-Score": "1827",
+        "DX-Rating": "273"
+    },
+    {
+        "name": "星見草",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "97.1553",
+        "DX-Score": "1929",
+        "DX-Rating": "268"
+    },
+    {
+        "name": "Knight Rider",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "100.0384",
+        "DX-Score": "2338",
+        "DX-Rating": "298"
+    },
+    {
+        "name": "猛進ソリストライフ！",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.387",
+        "DX-Score": "2200",
+        "DX-Rating": "297"
+    },
+    {
+        "name": "Sqlupp (Camellia's \"Sqleipd*Hiytex\" Remix)",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.5",
+        "achievement": "92.953",
+        "DX-Score": "2648",
+        "DX-Rating": "204"
+    },
+    {
+        "name": "39",
+        "category": "SD",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.6646",
+        "DX-Score": "1507",
+        "DX-Rating": "301"
+    },
+    {
+        "name": "最強STRONGER",
+        "category": "DX",
+        "difficulty": "Advanced",
+        "level": "8+",
+        "concrete-level": "8.7",
+        "achievement": "100.95",
+        "DX-Score": "1176",
+        "DX-Rating": "195"
+    },
+    {
+        "name": "CO5M1C R4ILR0AD",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "100.7486",
+        "DX-Score": "1637",
+        "DX-Rating": "265"
+    },
+    {
+        "name": "411Ψ892",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.6415",
+        "DX-Score": "1689",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "MYTHOS",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.2",
+        "achievement": "99.7823",
+        "DX-Score": "1184",
+        "DX-Rating": "256"
+    },
+    {
+        "name": "TiamaT:F minor",
+        "category": "SD",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.1",
+        "achievement": "98.0669",
+        "DX-Score": "2047",
+        "DX-Rating": "260"
+    },
+    {
+        "name": "イカサマライフゲイム",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.3298",
+        "DX-Score": "2329",
+        "DX-Rating": "279"
+    },
+    {
+        "name": "恋愛裁判",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "100.2778",
+        "DX-Score": "1682",
+        "DX-Rating": "255"
+    },
+    {
+        "name": "Blank Paper (Prod. TEMPLIME)",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "99.9926",
+        "DX-Score": "2064",
+        "DX-Rating": "272"
+    },
+    {
+        "name": "Oshama Scramble!",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "99.8662",
+        "DX-Score": "2683",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "きゅうくらりん",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.5912",
+        "DX-Score": "2276",
+        "DX-Rating": "308"
+    },
+    {
+        "name": "エゴロック",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.2873",
+        "DX-Score": "1844",
+        "DX-Rating": "296"
+    },
+    {
+        "name": "いっしそう電☆舞舞神拳！",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "98.4742",
+        "DX-Score": "2136",
+        "DX-Rating": "273"
+    },
+    {
+        "name": "Estahv",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "97.1217",
+        "DX-Score": "1574",
+        "DX-Rating": "269"
+    },
+    {
+        "name": "デスパレイト",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "97.031",
+        "DX-Score": "1638",
+        "DX-Rating": "269"
+    },
+    {
+        "name": "患部で止まってすぐ溶ける～狂気の優曇華院",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "97.7837",
+        "DX-Score": "1812",
+        "DX-Rating": "267"
+    },
+    {
+        "name": "Reach For The Stars",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "96.9765",
+        "DX-Score": "1238",
+        "DX-Rating": "226"
+    },
+    {
+        "name": "Mare Maris",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "98.4088",
+        "DX-Score": "2117",
+        "DX-Rating": "275"
+    },
+    {
+        "name": "8-EM",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "96.7275",
+        "DX-Score": "1984",
+        "DX-Rating": "224"
+    },
+    {
+        "name": "Altale",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.3281",
+        "DX-Score": "1268",
+        "DX-Rating": "296"
+    },
+    {
+        "name": "Cthugha",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.3",
+        "achievement": "98.7697",
+        "DX-Score": "2918",
+        "DX-Rating": "286"
+    },
+    {
+        "name": "Luminaria",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "97.9059",
+        "DX-Score": "2053",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "Schwarzschild",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "94.7034",
+        "DX-Score": "1921",
+        "DX-Rating": "222"
+    },
+    {
+        "name": "Hainuwele",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.3",
+        "achievement": "96.5042",
+        "DX-Score": "2425",
+        "DX-Rating": "231"
+    },
+    {
+        "name": "記憶、記録",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "94.4774",
+        "DX-Score": "1484",
+        "DX-Rating": "214"
+    },
+    {
+        "name": "田中",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.3",
+        "achievement": "93.751",
+        "DX-Score": "2038",
+        "DX-Rating": "203"
+    },
+    {
+        "name": "最強STRONGER",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.6",
+        "achievement": "93.6396",
+        "DX-Score": "2377",
+        "DX-Rating": "207"
+    },
+    {
+        "name": "Aegleseeker",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.5",
+        "achievement": "93.4776",
+        "DX-Score": "2378",
+        "DX-Rating": "206"
+    },
+    {
+        "name": "BLACK SWAN",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.6",
+        "achievement": "91.9448",
+        "DX-Score": "2080",
+        "DX-Rating": "204"
+    },
+    {
+        "name": "ジングルベル",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.3",
+        "achievement": "88.8384",
+        "DX-Score": "1234",
+        "DX-Rating": "172"
+    },
+    {
+        "name": "Bad Apple!! feat nomico",
+        "category": "SD",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "99.0351",
+        "DX-Score": "1762",
+        "DX-Rating": "273"
+    },
+    {
+        "name": "You Mean the World to Me",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "100.2967",
+        "DX-Score": "1808",
+        "DX-Rating": "298"
+    },
+    {
+        "name": "RIFFRAIN",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "98.8121",
+        "DX-Score": "1569",
+        "DX-Rating": "260"
+    },
+    {
+        "name": "DADDY MULK -Groove remix-",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "98.6114",
+        "DX-Score": "1925",
+        "DX-Rating": "276"
+    },
+    {
+        "name": "Candy Tall Woman",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "97.47",
+        "DX-Score": "1773",
+        "DX-Rating": "269"
+    },
+    {
+        "name": "air's gravity",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "97.4137",
+        "DX-Score": "957",
+        "DX-Rating": "259"
+    },
+    {
+        "name": "MAKE IT FUNKY NOW",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "96.3235",
+        "DX-Score": "1960",
+        "DX-Rating": "221"
+    },
+    {
+        "name": "KING is BACK!!",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "95.9405",
+        "DX-Score": "2338",
+        "DX-Rating": "225"
+    },
+    {
+        "name": "エイリアンエイリアン",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.4478",
+        "DX-Score": "1973",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "ロールプレイングゲーム",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.6",
+        "achievement": "100.4123",
+        "DX-Score": "1995",
+        "DX-Rating": "273"
+    },
+    {
+        "name": "ピリオドサイン",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.6",
+        "achievement": "100.4302",
+        "DX-Score": "1918",
+        "DX-Rating": "295"
+    },
+    {
+        "name": "頓珍漢の宴",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "100.2846",
+        "DX-Score": "2551",
+        "DX-Rating": "298"
+    },
+    {
+        "name": "Falling",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "99.8481",
+        "DX-Score": "1671",
+        "DX-Rating": "282"
+    },
+    {
+        "name": "ユビキリ",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "99.2143",
+        "DX-Score": "1647",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "奏者はただ背中と提琴で語るのみ",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "99.1726",
+        "DX-Score": "2308",
+        "DX-Rating": "284"
+    },
+    {
+        "name": "ワードワードワード",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "98.8094",
+        "DX-Score": "2302",
+        "DX-Rating": "266"
+    },
+    {
+        "name": "夜咄ディセイブ",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "98.7504",
+        "DX-Score": "1582",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "へべれけジャンキー",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "98.4076",
+        "DX-Score": "1813",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "Kattobi KEIKYU Rider",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.133",
+        "DX-Score": "2224",
+        "DX-Rating": "296"
+    },
+    {
+        "name": "れっつ！みらくる☆はーどこあっ！",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "98.0168",
+        "DX-Score": "2740",
+        "DX-Rating": "276"
+    },
+    {
+        "name": "Starry Colors",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "96.8101",
+        "DX-Score": "2213",
+        "DX-Rating": "227"
+    },
+    {
+        "name": "ウサテイ",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "95.7712",
+        "DX-Score": "1488",
+        "DX-Rating": "225"
+    },
+    {
+        "name": "華の集落、秋のお届け",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "98.395",
+        "DX-Score": "2263",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "エンドマークに希望と涙を添えて",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.3",
+        "achievement": "95.2285",
+        "DX-Score": "2436",
+        "DX-Rating": "228"
+    },
+    {
+        "name": "GEMINI -M-",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "94.7992",
+        "DX-Score": "2403",
+        "DX-Rating": "221"
+    },
+    {
+        "name": "Swift Swing",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.3",
+        "achievement": "93.803",
+        "DX-Score": "1999",
+        "DX-Rating": "203"
+    },
+    {
+        "name": "東方妖々夢 ～the maximum moving about～",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.508",
+        "DX-Score": "2089",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "永遠のメロディ",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "100.4598",
+        "DX-Score": "1736",
+        "DX-Rating": "271"
+    },
+    {
+        "name": "蒼空に舞え、墨染の桜",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "99.4302",
+        "DX-Score": "1761",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "絶え間なく藍色",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "99.0468",
+        "DX-Score": "1653",
+        "DX-Rating": "276"
+    },
+    {
+        "name": "群青シグナル",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "98.4815",
+        "DX-Score": "2476",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "幸せになれる隠しコマンドがあるらしい",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "95.8933",
+        "DX-Score": "2037",
+        "DX-Rating": "225"
+    },
+    {
+        "name": "Mjölnir",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.4",
+        "achievement": "94.9134",
+        "DX-Score": "2872",
+        "DX-Rating": "229"
+    },
+    {
+        "name": "だんだん早くなる",
+        "category": "SD",
+        "difficulty": "Re:MASTER",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.1281",
+        "DX-Score": "1486",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "残響散歌",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.2163",
+        "DX-Score": "2494",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "Rush-More",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "98.612",
+        "DX-Score": "2189",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "The wheel to the right",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "94.702",
+        "DX-Score": "2263",
+        "DX-Rating": "222"
+    },
+    {
+        "name": "BATTLE NO.1",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.5",
+        "achievement": "93.8326",
+        "DX-Score": "2766",
+        "DX-Rating": "206"
+    },
+    {
+        "name": "Endless World",
+        "category": "SD",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.5199",
+        "DX-Score": "1423",
+        "DX-Rating": "301"
+    },
+    {
+        "name": "玩具狂奏曲 -終焉-",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "99.3794",
+        "DX-Score": "1523",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "My Dearest Song",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.6274",
+        "DX-Score": "2138",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "骸骨楽団とリリア",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.5003",
+        "DX-Score": "1943",
+        "DX-Rating": "301"
+    },
+    {
+        "name": "砂の惑星 feat. HATSUNE MIKU",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.2568",
+        "DX-Score": "1841",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "ナイト・オブ・ナイツ (Cranky Remix)",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "99.8704",
+        "DX-Score": "2188",
+        "DX-Rating": "278"
+    },
+    {
+        "name": "私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "99.784",
+        "DX-Score": "2158",
+        "DX-Rating": "282"
+    },
+    {
+        "name": "ナンセンス文学",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.0168",
+        "DX-Score": "2102",
+        "DX-Rating": "289"
+    },
+    {
+        "name": "P-qoq",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "98.8535",
+        "DX-Score": "2302",
+        "DX-Rating": "264"
+    },
+    {
+        "name": "Black Lair",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "97.9149",
+        "DX-Score": "2043",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "アマノジャクリバース feat. ｙｔｒ",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "94.1176",
+        "DX-Score": "1703",
+        "DX-Rating": "219"
+    },
+    {
+        "name": "Arty Party",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.8",
+        "achievement": "100.475",
+        "DX-Score": "1389",
+        "DX-Rating": "256"
+    },
+    {
+        "name": "ソリッド",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.0299",
+        "DX-Score": "1986",
+        "DX-Rating": "289"
+    },
+    {
+        "name": "Back 2 Back",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "98.9323",
+        "DX-Score": "1000",
+        "DX-Rating": "275"
+    },
+    {
+        "name": "energy trixxx",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "98.9319",
+        "DX-Score": "2408",
+        "DX-Rating": "277"
+    },
+    {
+        "name": "DETARAME ROCK&ROLL THEORY",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "96.7061",
+        "DX-Score": "1918",
+        "DX-Rating": "224"
+    },
+    {
+        "name": "VERTeX",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.5",
+        "achievement": "88.7432",
+        "DX-Score": "1714",
+        "DX-Rating": "175"
+    },
+    {
+        "name": "スローアライズ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.5807",
+        "DX-Score": "1531",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "BLACK ROSE",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.2",
+        "achievement": "100.5771",
+        "DX-Score": "1878",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "GRÄNDIR",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "100.1408",
+        "DX-Score": "2170",
+        "DX-Rating": "300"
+    },
+    {
+        "name": "Kinda Way",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "99.9814",
+        "DX-Score": "1906",
+        "DX-Rating": "272"
+    },
+    {
+        "name": "Crazy Circle",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12",
+        "concrete-level": "12.6",
+        "achievement": "99.9495",
+        "DX-Score": "2387",
+        "DX-Rating": "265"
+    },
+    {
+        "name": "東方スイーツ！～鬼畜姉妹と受難メイド～",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "99.3531",
+        "DX-Score": "1382",
+        "DX-Rating": "272"
+    },
+    {
+        "name": "Stardust Memories",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "99.1689",
+        "DX-Score": "1790",
+        "DX-Rating": "268"
+    },
+    {
+        "name": "emomomo",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "98.8649",
+        "DX-Score": "2214",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "トリアージ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.1",
+        "achievement": "98.6075",
+        "DX-Score": "1622",
+        "DX-Rating": "262"
+    },
+    {
+        "name": "ハジマリノピアノ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "97.6106",
+        "DX-Score": "2330",
+        "DX-Rating": "269"
+    },
+    {
+        "name": "パラボラ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "97.332",
+        "DX-Score": "2363",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "Never Give Up!",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "96.3583",
+        "DX-Score": "1844",
+        "DX-Rating": "223"
+    },
+    {
+        "name": "Calamity Fortune",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.2",
+        "achievement": "94.4277",
+        "DX-Score": "2421",
+        "DX-Rating": "225"
+    },
+    {
+        "name": "End Time",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14+",
+        "concrete-level": "14.7",
+        "achievement": "92.7736",
+        "DX-Score": "1874",
+        "DX-Rating": "207"
+    },
+    {
+        "name": "阿修羅ちゃん",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "10",
+        "concrete-level": "10",
+        "achievement": "100.993",
+        "DX-Score": "1388",
+        "DX-Rating": "225"
+    },
+    {
+        "name": "Vallista",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "98.0388",
+        "DX-Score": "1226",
+        "DX-Rating": "248"
+    },
+    {
+        "name": "神っぽいな",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "11+",
+        "concrete-level": "11.7",
+        "achievement": "100.8399",
+        "DX-Score": "1327",
+        "DX-Rating": "263"
+    },
+    {
+        "name": "ヒバリ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "100.6184",
+        "DX-Score": "1721",
+        "DX-Rating": "301"
+    },
+    {
+        "name": "魔法少女とチョコレゐト",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "100.6216",
+        "DX-Score": "1704",
+        "DX-Rating": "303"
+    },
+    {
+        "name": "トノサマビーム",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.7202",
+        "DX-Score": "2382",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "不機嫌なスリーカード",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.6323",
+        "DX-Score": "1509",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "Hello, Hologram",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.2249",
+        "DX-Score": "2353",
+        "DX-Rating": "296"
+    },
+    {
+        "name": "リスペク風神",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.7063",
+        "DX-Score": "2340",
+        "DX-Rating": "308"
+    },
+    {
+        "name": "MAGENTA POTION",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "100.3553",
+        "DX-Score": "2114",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "MAXRAGE",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "99.6656",
+        "DX-Score": "2436",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "阿修羅ちゃん",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.2",
+        "achievement": "100.7249",
+        "DX-Score": "1894",
+        "DX-Rating": "297"
+    },
+    {
+        "name": "enchanted wanderer",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "100.7204",
+        "DX-Score": "1655",
+        "DX-Rating": "310"
+    },
+    {
+        "name": "411Ψ892",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.3",
+        "achievement": "96.5769",
+        "DX-Score": "2219",
+        "DX-Rating": "232"
+    },
+    {
+        "name": "Vallista",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.1",
+        "achievement": "95.5182",
+        "DX-Score": "1855",
+        "DX-Rating": "226"
+    },
+    {
+        "name": "CO5M1C R4ILR0AD",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.4",
+        "achievement": "94.1699",
+        "DX-Score": "2176",
+        "DX-Rating": "227"
+    },
+    {
+        "name": "神っぽいな",
+        "category": "DX",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13.3",
+        "achievement": "100.6441",
+        "DX-Score": "1502",
+        "DX-Rating": "299"
+    },
+    {
+        "name": "Trrricksters!!",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.6455",
+        "DX-Score": "2171",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "VeRForTe αRtE:VEiN",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12+",
+        "concrete-level": "12.9",
+        "achievement": "100.7721",
+        "DX-Score": "1815",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "でらっくmaimai♪てんてこまい!",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.7",
+        "achievement": "100.6892",
+        "DX-Score": "2129",
+        "DX-Rating": "285"
+    },
+    {
+        "name": "キャットラビング",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "100.6674",
+        "DX-Score": "1695",
+        "DX-Rating": "288"
+    },
+    {
+        "name": "深海少女",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "100.5685",
+        "DX-Score": "1892",
+        "DX-Rating": "292"
+    },
+    {
+        "name": "Comet Panto Men!",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "98.9049",
+        "DX-Score": "2289",
+        "DX-Rating": "281"
+    },
+    {
+        "name": "前衛的Landscape",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "98.5907",
+        "DX-Score": "1900",
+        "DX-Rating": "276"
+    },
+    {
+        "name": "僕の和風本当上手",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14",
+        "achievement": "97.5978",
+        "DX-Score": "2856",
+        "DX-Rating": "273"
+    },
+    {
+        "name": "Trrricksters!!",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.5",
+        "achievement": "95.9556",
+        "DX-Score": "2740",
+        "DX-Rating": "233"
+    },
+    {
+        "name": "おとせサンダー",
+        "category": "DX",
+        "difficulty": "Re:MASTER",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "100.0847",
+        "DX-Score": "2527",
+        "DX-Rating": "296"
+    },
+    {
+        "name": "ロウワー",
+        "category": "DX",
+        "difficulty": "Re:MASTER",
+        "level": "13",
+        "concrete-level": "13.5",
+        "achievement": "100.56",
+        "DX-Score": "1998",
+        "DX-Rating": "303"
+    },
+    {
+        "name": "Big Daddy",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12",
+        "achievement": "100.6019",
+        "DX-Score": "1972",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "とびだせ！TO THE COSMIC!!",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "12",
+        "concrete-level": "12.5",
+        "achievement": "100.3317",
+        "DX-Score": "2004",
+        "DX-Rating": "270"
+    },
+    {
+        "name": "Final Step!",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.8",
+        "achievement": "99.8723",
+        "DX-Score": "2236",
+        "DX-Rating": "290"
+    },
+    {
+        "name": "アルティメットセンパイ",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13",
+        "achievement": "99.6735",
+        "DX-Score": "1974",
+        "DX-Rating": "273"
+    },
+    {
+        "name": "Hand in Hand",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "12+",
+        "concrete-level": "12.8",
+        "achievement": "99.5071",
+        "DX-Score": "1525",
+        "DX-Rating": "268"
+    },
+    {
+        "name": "Random",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "99.039",
+        "DX-Score": "2034",
+        "DX-Rating": "282"
+    },
+    {
+        "name": "Komplexe",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "98.0498",
+        "DX-Score": "1976",
+        "DX-Rating": "272"
+    },
+    {
+        "name": "Beautiful Future",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "97.8986",
+        "DX-Score": "2068",
+        "DX-Rating": "268"
+    },
+    {
+        "name": "Last Samurai",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "97.7715",
+        "DX-Score": "1107",
+        "DX-Rating": "271"
+    },
+    {
+        "name": "Yakumo >>JOINT STRUGGLE (2019 Update)",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.9",
+        "achievement": "97.5076",
+        "DX-Score": "2475",
+        "DX-Rating": "271"
+    },
+    {
+        "name": "Blew Moon",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "97.301",
+        "DX-Score": "1439",
+        "DX-Rating": "260"
+    },
+    {
+        "name": "Alea jacta est!",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.4",
+        "achievement": "94.5468",
+        "DX-Score": "2231",
+        "DX-Rating": "228"
+    },
+    {
+        "name": "宿星審判",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.3",
+        "achievement": "94.4832",
+        "DX-Score": "2461",
+        "DX-Rating": "226"
+    },
+    {
+        "name": "Axeria",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "14",
+        "concrete-level": "14.5",
+        "achievement": "93.5895",
+        "DX-Score": "1884",
+        "DX-Rating": "206"
+    },
+    {
+        "name": "ツムギボシ",
+        "category": "DX",
+        "difficulty": "Expert",
+        "level": "11+",
+        "concrete-level": "11.9",
+        "achievement": "99.8568",
+        "DX-Score": "1706",
+        "DX-Rating": "250"
+    },
+    {
+        "name": "リッジでリッジでGO!GO!GO! -GMT mashup-",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "99.5379",
+        "DX-Score": "1821",
+        "DX-Rating": "287"
+    },
+    {
+        "name": "BREAK YOU!!",
+        "category": "SD",
+        "difficulty": "Master",
+        "level": "13+",
+        "concrete-level": "13.7",
+        "achievement": "98.7872",
+        "DX-Score": "1943",
+        "DX-Rating": "274"
+    },
+    {
+        "name": "インドア系ならトラックメイカー",
+        "category": "DX",
+        "difficulty": "Master",
+        "level": "13",
+        "concrete-level": "13.4",
+        "achievement": "97.9901",
+        "DX-Score": "1808",
+        "DX-Rating": "262"
+    }
+]
