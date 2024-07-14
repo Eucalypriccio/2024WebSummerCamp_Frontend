@@ -4,11 +4,11 @@
 
 .difficulty-capsule {
     display: inline-block;
-    padding: 4px 8px;
+    padding: 8px 12px;
     border-radius: 20px;
     color: white;
-    font-weight: 500;
-    font-size: small;
+    /* font-weight: 500;
+    font-size: small; */
     text-align: center;
     white-space: nowrap;
 }
@@ -26,11 +26,210 @@
 
 .achievement-capsule {
     display: inline-block;
-    padding: 4px 8px;
+    padding: 8px 12px;
+    border: 1px solid;
     border-radius: 20px;
-    color: white;
-    font-weight: 500;
-    font-size: small;
+    /* font-weight: 500; */
+    /* font-size: small; */
     text-align: center;
     white-space: nowrap;
+    background-color: transparent;
+    margin: 4px 8px;
+}
+
+.achievement-capsule.SSS\+ {color: #E74C3C; border-color: #E74C3C;}
+.achievement-capsule.SSS {color: #3498DB; border-color: #3498DB;}
+.achievement-capsule.SS\+ {color: #F4D03F; border-color: #F4D03F;}
+.achievement-capsule.SS {color: #000000; border-color: #000000;}
+.achievement-capsule.S\+ {color: #000000; border-color: #000000;}
+.achievement-capsule.S {color: #000000; border-color: #000000;}
+
+button {
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.table-switcher-container {
+    position: relative;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.table-switcher {
+    position: relative;
+    display: flex;
+}
+
+.table-switcher button {
+    font-size: 14px;
+    margin: 0 10px;
+    padding: 8px 12px;
+    /* border-bottom: 2px solid transparent; */
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+
+.table-switcher button.active {
+    color: #3498DB;
+    /* border-bottom-color: #006eb7; */
+}
+
+
+.table-switcher button.active:hover {
+    background-color: rgb(190, 227, 239);
+}
+
+.table-switcher .underline {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    background-color: #006eb7;
+    transition: all 0.3s ease;
+}
+
+.song-table-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.pagination {
+    display: flex;
+    gap: 20px;
+    padding: 5px 10px;
+    margin-bottom: auto;
+    align-self: flex-end;
+}
+
+.pagination button {
+    font-size: xx-large;
+    border-radius: 50%;
+    border: 1px solid transparent;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.pagination button.active:hover {
+    background-color: lightgrey;
+}
+
+.modal {
+    display: flex; /* 使用 flexbox 布局 */
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto; /* 保留 overflow: auto 以防万一 */
+    background-color: rgba(0, 0, 0, 0.4);
+}
+  
+.modal-content {
+    background-color: #fefefe;
+    padding: 20px;
+    border: 1px solid #888;
+    max-width: 90%; /* 限制最大宽度 */
+    max-height: 90%; /* 限制最大高度 */
+}
+  
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+  
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.cover-container {
+    position: relative; /* 使 tooltip 可以相对定位 */
+    display: inline-block; /* 使容器与按钮大小一致 */
+}
+  
+.cover-tooltip {
+    white-space: nowrap;
+    visibility: hidden; /* 默认隐藏 tooltip */
+    background-color: #333;
+    color: #fff;
+    font-size: small;
+    padding: 5px 10px;
+    border-radius: 4px;
+    position: absolute;
+    z-index: 1;
+    bottom: 100%; /* 将 tooltip 定位在图标上侧 */
+    left: 50%;
+    transform: translateX(-50%); /* 水平居中 */
+    opacity: 0; /* 默认透明度为 0 */
+    transition: opacity 0.3s ease; /* 添加过渡效果 */
+}
+  
+.cover-container:hover .cover-tooltip {
+    visibility: visible; /* 鼠标悬停时显示 tooltip */
+    opacity: 1; /* 鼠标悬停时透明度为 1 */
+}
+
+.song-name-container {
+    position: relative; /* 使 tooltip 可以相对定位 */
+    display: inline-block; /* 使容器与按钮大小一致 */
+}
+  
+.song-tooltip {
+    visibility: hidden; /* 默认隐藏 tooltip */
+    background-color: #333;
+    color: #fff;
+    font-size: small;
+    padding: 5px 10px;
+    border-radius: 4px;
+    position: absolute;
+    z-index: 1;
+    bottom: 100%; /* 将 tooltip 定位在歌曲名上方 */
+    left: 50%;
+    transform: translateX(-50%); /* 水平居中 */
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    display: flex;     /* 使用 flexbox 布局 */
+    flex-direction: column;  /* 设置垂直排列 */
+    align-items: flex-start; /* 文字左对齐 */
+}
+
+.song-tooltip p {
+    margin: 0;
+    line-height: 2;
+    white-space: nowrap; /* 禁止文字换行 */
+}
+
+.song-name-container:hover .song-tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+.song-list-card {
+    background-color: #fff;
+    border-radius: 8px;      /* 设置卡片圆角 */
+    box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
+    padding: 20px;            /* 添加内边距 */
+    margin: 20px auto;        /* 设置外边距，使其居中 */
+}
+
+.search-bar {
+    margin-bottom: 10px;
+}
+  
+.search-bar input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
 }
